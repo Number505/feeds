@@ -1,0 +1,2486 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2019-03-15 23:01">
+	<shop>
+		<name>Официальный магазин бытовой техники Siemens</name>
+		<company>ООО "БСХ Бытовые Приборы"</company>
+		<url>http://www.siemens-home.bsh-group.ru/</url>
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="0">Холодильники</category>
+			<category id="1">Вытяжки</category>
+			<category id="2">Встраиваемые духовые шкафы</category>
+			<category id="3">Варочные панели</category>
+			<category id="4">Подогреватели посуды</category>
+			<category id="5">Микроволновые печи</category>
+			<category id="6">Стиральные машины</category>
+			<category id="7">Посудомоечные машины</category>
+		</categories>
+		<offers>
+			<offer id="KI86NHD20R" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/ohlazhdenie/vstraivaemye-holodilniki/vstraivaemye-holodilniki-s-nizhnej-morozilnoj-kameroj/KI86NHD20R</url>
+				<price>110990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>0</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02004672_H2999_KI86NHD20R_1400307_cmyk_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01940486_H1499_KI34NP60GB_1347644_PGA7_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02004611_H2995_KI86NHD20R_1400241_PGA4_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02004609_H2994_KI86NHD20R_1400240_PGA6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02004608_H2993_KI86NHD20R_1400239_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02004615_H2997_KI86NHD20R_1400245_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02004613_H2996_KI86NHD20R_1400243_PGA1_def.png</picture>
+				<barcode>4242003814079</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраив. морозил.-холодильн. комбинация KI86NHD20R</name>
+				<vendorCode>KI86NHD20R</vendorCode>
+				<model>KI86NHD20R</model>
+				<description>Встраив. морозил.-холодильн. комбинация KI86NHD20R</description>
+			</offer>
+			<offer id="KI86NVF20R" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/ohlazhdenie/vstraivaemye-holodilniki/vstraivaemye-holodilniki-s-nizhnej-morozilnoj-kameroj/KI86NVF20R</url>
+				<price>108990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>0</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01940503_H1482_KI86NVF30G_1347662_cmyk_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01940502_H1492_KI86NVF30G_1347661_PGA6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01940501_H1350_KI86NVF30G_1347660_PGA4_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01657321_KI86NVF20R_PGA4_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01940505_H1351_KI86NVF30G_1347664_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01940506_H1348_KI86NVF30G_1347665_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01940504_H1349_KI86NVF30G_1347663_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01657323_KI86NVF20R_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01657320_KI86NVF20R_PGA3_def.png</picture>
+				<barcode>4242003718643</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраив. морозил.-холодильн. комбинация KI86NVF20R</name>
+				<vendorCode>KI86NVF20R</vendorCode>
+				<model>KI86NVF20R</model>
+				<description>Холодильно-морозильная комбинция с зоной свежести для овощей и фруктов, в которой они остаются свежими дольше.</description>
+			</offer>
+			<offer id="KI87SAF30R" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/ohlazhdenie/vstraivaemye-holodilniki/vstraivaemye-holodilniki-s-nizhnej-morozilnoj-kameroj/KI87SAF30R</url>
+				<price>73990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>0</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00454282_D3732_KI87SAF30_79412_def.png</picture>
+				<barcode>4242003612064</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраив. морозил.-холодильн. комбинация KI87SAF30R</name>
+				<vendorCode>KI87SAF30R</vendorCode>
+				<model>KI87SAF30R</model>
+				<description>Холодильно-морозильная комбинация с зоной свежести, которая сохраняет овощи и фрукты свежими до 2 раз дольше.</description>
+			</offer>
+			<offer id="KI87VVF20R" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/ohlazhdenie/vstraivaemye-holodilniki/vstraivaemye-holodilniki-s-nizhnej-morozilnoj-kameroj/KI87VVF20R</url>
+				<price>68990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>0</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01948234_H1487_KI87VVF30G_1353536_cmyk_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01657348_KI87VVF20R_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01948237_H1364_KI87VVF30G_1353539_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01948238_H1367_KI87VVF30G_1353540_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01948236_H1497_KI87VVF30G_1353538_PGA6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01948239_H1366_KI87VVF30G_1353541_PGA4_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01948235_H1365_KI87VVF30G_1353537_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01657346_KI87VVF20R_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01657347_KI87VVF20R_PGA4_def.png</picture>
+				<barcode>4242003691960</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраив. морозил.-холодильн. комбинация KI87VVF20R</name>
+				<vendorCode>KI87VVF20R</vendorCode>
+				<model>KI87VVF20R</model>
+				<description>Холодильно-морозильная комбинация с зоной свежести, которая сохраняет овощи и фрукты свежими дольше.</description>
+			</offer>
+			<offer id="LC67BE532" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/vytjazhki/nastennye-vytjazhki/nastennye-vytjazhnye-shkafy/LC67BE532</url>
+				<price>45990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>1</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00664089_LC67BE532_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00922448_553080_LC97BC532_easy-electronic_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00922438_553071_LC97BC532_Metallfilter_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00923956_554719_%20LC97BB542_PGA6_def.png</picture>
+				<barcode>4242003650011</barcode>
+				<vendor>Siemens</vendor>
+				<name>Вытяжка для настенного монтажа LC67BE532</name>
+				<vendorCode>LC67BE532</vendorCode>
+				<model>LC67BE532</model>
+				<description>Мощная вытяжка для настенного монтажа.</description>
+			</offer>
+			<offer id="LI67SA530" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/vytjazhki/integrirovannye-vstraivaemye-vytjazhki/teleskopicheskie-vytjazhki/LI67SA530</url>
+				<price>34990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>1</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01030511_652206_LI67SA530_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01600744_PGA2_LI64MA530_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01607925_1060065_PGA3_LI64MA530_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01091576_PGA1_LI67SA530_681043_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01091569_PGA4_LI64MA530_681037_def.png</picture>
+				<barcode>4242003723333</barcode>
+				<vendor>Siemens</vendor>
+				<name>Вытяжка для встраивания в навесной шкаф LI67SA530</name>
+				<vendorCode>LI67SA530</vendorCode>
+				<model>LI67SA530</model>
+				<description>Мощная вытяжка с выдвижным экраном для монтажа в подвесной шкаф.</description>
+			</offer>
+			<offer id="HS658GXS6" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/duhovye-shkafy-s-parom/parovye-duhovye-shkafy/HS658GXS6</url>
+				<price>171990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>2</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00759577_403731_HS658GXS6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00837706_472831_154_HS658GXS6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00814932_454322_HS658GXS6_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00794097_440231_HS658GXS6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA03035105_118193__BSH_Siemens_kitchen__stills_scene_10_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00831934_467281_HS658GXS6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00838137_473068_23_HS658GXS6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02820763_HB_HS658GXS6_Siemens_S600_EDE_PGA3_def.png</picture>
+				<barcode>4242003672273</barcode>
+				<vendor>Siemens</vendor>
+				<name>Духовой шкаф-пароварка HS658GXS6</name>
+				<vendorCode>HS658GXS6</vendorCode>
+				<model>HS658GXS6</model>
+				<description>Духовой шкаф с приготовлением на пару, сенсорами bakingSensor и roastSensor Plus - превосходный результат и здоровая пища.</description>
+			</offer>
+			<offer id="LC68BIT50" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/vytjazhki/nastennye-vytjazhki/nastennye-vytjazhnye-shkafy/LC68BIT50</url>
+				<price>54990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>1</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02615695_LC68BIT50_ChimneyHood_Siemens_STP_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02696292_edelstahlfilter_Siemens_PGA4_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02695392_LC68BIT50_ChimneyHood_Siemens_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02683937_LC68BIT50_ChimneyHood_Siemens_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02677326_LC68BIT50_ChimneyHood_Siemens_PGA1_def.png</picture>
+				<barcode>4242003831953</barcode>
+				<vendor>Siemens</vendor>
+				<name>Вытяжка для настенного монтажа LC68BIT50</name>
+				<vendorCode>LC68BIT50</vendorCode>
+				<model>LC68BIT50</model>
+				<description>Мощная островная вытяжка располагает к себе высокой производительностью и интересным дизайном</description>
+			</offer>
+			<offer id="LC68BUV50" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/vytjazhki/nastennye-vytjazhki/nastennye-vytjazhnye-shkafy/LC68BUV50</url>
+				<price>62990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>1</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02615707_LC68BUV50_ChimneyHood_Siemens_STP_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02696292_edelstahlfilter_Siemens_PGA4_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02683957_LC68BUV50_ChimneyHood_Siemens_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02677330_LC68BUV50_ChimneyHood_Siemens_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02695457_LC68BUV50_ChimneyHood_Siemens_PGA3_def.png</picture>
+				<barcode>4242003831960</barcode>
+				<vendor>Siemens</vendor>
+				<name>Вытяжка для настенного монтажа LC68BUV50</name>
+				<vendorCode>LC68BUV50</vendorCode>
+				<model>LC68BUV50</model>
+				<description>Вытяжка для настенного монтажа LC68BUV50</description>
+			</offer>
+			<offer id="CB675G0S1" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/duhovye-shkafy/kompaktnye-duhovye-shkafy/CB675G0S1</url>
+				<price>94990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>2</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00806034_446383_CB634GBS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00893223_527708_97_CB675G0S1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00836818_472343_27_CB634GBS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00841034_474990_CB634GBS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00841655_475576_CB634GBS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00814864_454265_HB632GBS1_def.png</picture>
+				<barcode>4242003671245</barcode>
+				<vendor>Siemens</vendor>
+				<name>Компактный духовой шкаф CB675G0S1</name>
+				<vendorCode>CB675G0S1</vendorCode>
+				<model>CB675G0S1</model>
+				<description>Компактная духовка высотой 45 см предоставляет удобства приготовления и современной выпечки</description>
+			</offer>
+			<offer id="CM636GBS1" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/duhovye-shkafy/duhovye-shkafy-s-mikrovolnami/CM636GBS1</url>
+				<price>128990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>2</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00763004_407830_CM636GBS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00836812_472340_CM638GRS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00814874_454272_HM636GNS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00893163_527644_84_CM636GBS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00858345_CM636GBS1_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA03035107_118193__BSH_Siemens_kitchen__stills_scene_12_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00858348_CM636GBS1_PGA4_def.png</picture>
+				<barcode>4242003658352</barcode>
+				<vendor>Siemens</vendor>
+				<name>Компактный дух. шкаф с интегр. микров. CM636GBS1</name>
+				<vendorCode>CM636GBS1</vendorCode>
+				<model>CM636GBS1</model>
+				<description>Компактный духовой шкаф с интегрированной микроволновой печью позволит быстро достичь идеальных результатов, используя комбинированные режимы нагрева.</description>
+			</offer>
+			<offer id="CB674GBS3" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/duhovye-shkafy/kompaktnye-duhovye-shkafy/CB674GBS3</url>
+				<price>86990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>2</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00806034_446383_CB634GBS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00836818_472343_27_CB634GBS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00837624_472785_98_CB674GBS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00841034_474990_CB634GBS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00841655_475576_CB634GBS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00814864_454265_HB632GBS1_def.png</picture>
+				<barcode>4242003836507</barcode>
+				<vendor>Siemens</vendor>
+				<name>компактный духовой шкаф CB674GBS3</name>
+				<vendorCode>CB674GBS3</vendorCode>
+				<model>CB674GBS3</model>
+				<description>Компактная духовка высотой 45 см предоставляет удобства приготовления и современной выпечки</description>
+			</offer>
+			<offer id="HB676G5S6" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/duhovye-shkafy/vstraivaemye-duhovye-shkafy/HB676G5S6</url>
+				<price>107990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>2</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02988774_HB676G0S1F_STP_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA03035102_118193__BSH_Siemens_kitchen__stills_scene_08_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02988776_HB676G0S1F_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02988772_HB676G0S1F_PGA4_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00837670_472814_137_HB672G5S1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA03035106_118193__BSH_Siemens_kitchen__stills_scene_11_def.png</picture>
+				<barcode>4242003739983</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраиваемый электрический духовой шкаф HB676G5S6</name>
+				<vendorCode>HB676G5S6</vendorCode>
+				<model>HB676G5S6</model>
+				<description>Духовой шкаф Siemens упростит процесс приготовления блюд, позволив добиться прекрасных кулинарных результатов.</description>
+			</offer>
+			<offer id="HN678G4S6" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/duhovye-shkafy/duhovye-shkafy-s-mikrovolnami/HN678G4S6</url>
+				<price>203990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>2</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00760273_404504_HN678G4S6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01623707_HN678G4S6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00843867_477931_HN678G4S6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00814880_454278_HN678G4S6_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA03035105_118193__BSH_Siemens_kitchen__stills_scene_10_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00837701_472830_149_HN678G4S6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00831933_467280_HN678G4S6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02964197_Siemens_Kitchen_04_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00794093_440227_HN678G4S6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00837446_472652_35_HM636GNS1_def.png</picture>
+				<barcode>4242003672174</barcode>
+				<vendor>Siemens</vendor>
+				<name>Духовой шкаф с инт. микроволновой печью HN678G4S6</name>
+				<vendorCode>HN678G4S6</vendorCode>
+				<model>HN678G4S6</model>
+				<description>Духовой шкаф Siemens с подачей пара, дополненный микроволнами упростит процесс приготовления блюд, позволяя добиться прекрасных кулинарных результатов</description>
+			</offer>
+			<offer id="ET645FFP1E" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/varochnye-paneli/keramicheskie-varochnye-paneli/ET645FFP1E</url>
+				<price>26990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>3</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01734615_ET645FFP1E_ElectricHob_Siemens_STP_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01734619_ET645FFP1E_ElectricHob_Siemens_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01734618_ET645FFP1E_ElectricHob_Siemens_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01752879_ET645FFP1E_ElectricHob_Siemens_PGA2_def.png</picture>
+				<barcode>4242003764657</barcode>
+				<vendor>Siemens</vendor>
+				<name>Электрическая варочная панель ET645FFP1E</name>
+				<vendorCode>ET645FFP1E</vendorCode>
+				<model>ET645FFP1E</model>
+				<description>Современная стеклокерамическая варочная панель принесет больше удовольствия в процессе готовки и облегчит процесс очистки.</description>
+			</offer>
+			<offer id="ET645FHP1" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/varochnye-paneli/keramicheskie-varochnye-paneli/ET645FHP1</url>
+				<price>30990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>3</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01734624_ET645FHP1_ElectricHob_Siemens_STP_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01734627_ET645FHP1_ElectricHob_Siemens_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01752879_ET645FFP1E_ElectricHob_Siemens_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01734628_ET645FHP1_ElectricHob_Siemens_PGA3_def.png</picture>
+				<barcode>4242003756164</barcode>
+				<vendor>Siemens</vendor>
+				<name>Электрическая варочная панель ET645FHP1</name>
+				<vendorCode>ET645FHP1</vendorCode>
+				<model>ET645FHP1</model>
+				<description>Современная стеклокерамическая варочная панель принесет больше удовольствия в процессе готовки и облегчит процесс очистки.</description>
+			</offer>
+			<offer id="ET645FNN1" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/varochnye-paneli/keramicheskie-varochnye-paneli/ET645FNN1</url>
+				<price>26990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>3</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01734645_ET645FNN1_ElectricHob_Siemens_STP_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01734648_ET645FNN1_ElectricHob_Siemens_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01752879_ET645FFP1E_ElectricHob_Siemens_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01734649_ET645FNN1_ElectricHob_Siemens_PGA3_def.png</picture>
+				<barcode>4242003762417</barcode>
+				<vendor>Siemens</vendor>
+				<name>Электрическая варочная панель ET645FNN1</name>
+				<vendorCode>ET645FNN1</vendorCode>
+				<model>ET645FNN1</model>
+				<description>Современная стеклокерамическая варочная панель принесет больше удовольствия в процессе готовки и облегчит процесс очистки.</description>
+			</offer>
+			<offer id="ET645HN17E" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/varochnye-paneli/keramicheskie-varochnye-paneli/ET645HN17E</url>
+				<price>24990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>3</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00600248_236517_ET645HN17E_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00681435_2_ET645HN17E_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00681437_6_ET645HN17E_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00714347_PGA3_EA645GE17_def.png</picture>
+				<barcode>4242003612316</barcode>
+				<vendor>Siemens</vendor>
+				<name>Электрическая варочная панель ET645HN17E</name>
+				<vendorCode>ET645HN17E</vendorCode>
+				<model>ET645HN17E</model>
+				<description>Современная стеклокерамическая варочная панель принесет больше удовольствия в процессе готовки и облегчит процесс очистки.</description>
+			</offer>
+			<offer id="ET651BF17E" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/varochnye-paneli/keramicheskie-varochnye-paneli/ET651BF17E</url>
+				<price>25990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>3</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00502896_116239_ET651BF17E_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00713631_6_ET651BM17E_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01059044_DA3_ET651BF17E_U-Facette_Siemens_Black_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00713630_2_ET651BM17E_def.png</picture>
+				<barcode>4242003614600</barcode>
+				<vendor>Siemens</vendor>
+				<name>Электрическая варочная панель ET651BF17E</name>
+				<vendorCode>ET651BF17E</vendorCode>
+				<model>ET651BF17E</model>
+				<description>Современная стеклокерамическая варочная панель принесет больше удовольствия в процессе готовки и облегчит процесс очистки.</description>
+			</offer>
+			<offer id="ET651BNB1E" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/varochnye-paneli/keramicheskie-varochnye-paneli/ET651BNB1E</url>
+				<price>26990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>3</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01734764_ET651BNB1E_ElectricHob_Siemens_STP_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01752878_ET651FKP1E_ElectricHob_Siemens_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01734767_ET651BNB1E_ElectricHob_Siemens_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00714357_PGA3_ET651BF17E_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01734766_ET651BNB1E_ElectricHob_Siemens_PGA1_def.png</picture>
+				<barcode>4242003766859</barcode>
+				<vendor>Siemens</vendor>
+				<name>Электрическая варочная панель ET651BNB1E</name>
+				<vendorCode>ET651BNB1E</vendorCode>
+				<model>ET651BNB1E</model>
+				<description>Современная стеклокерамическая варочная панель принесет больше удовольствия в процессе готовки и облегчит процесс очистки.</description>
+			</offer>
+			<offer id="ET651FMP1R" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/varochnye-paneli/keramicheskie-varochnye-paneli/ET651FMP1R</url>
+				<price>34990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>3</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01735170_ET651FMP1R_ElectricHob_Siemens_STP_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01752878_ET651FKP1E_ElectricHob_Siemens_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01735173_ET651FMP1R_ElectricHob_Siemens_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01735174_ET651FMP1R_ElectricHob_Siemens_PGA3_def.png</picture>
+				<barcode>4242003756232</barcode>
+				<vendor>Siemens</vendor>
+				<name>Электрическая варочная панель ET651FMP1R</name>
+				<vendorCode>ET651FMP1R</vendorCode>
+				<model>ET651FMP1R</model>
+				<description>Современная стеклокерамическая варочная панель принесет больше удовольствия в процессе готовки и облегчит процесс очистки.</description>
+			</offer>
+			<offer id="ET651FNP1E" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/varochnye-paneli/keramicheskie-varochnye-paneli/ET651FNP1E</url>
+				<price>29990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>3</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01734665_ET651FNP1E_ElectricHob_Siemens_STP_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01752878_ET651FKP1E_ElectricHob_Siemens_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01734669_ET651FNP1E_ElectricHob_Siemens_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01734668_ET651FNP1E_ElectricHob_Siemens_PGA1_def.png</picture>
+				<barcode>4242003756218</barcode>
+				<vendor>Siemens</vendor>
+				<name>Электрическая варочная панель ET651FNP1E</name>
+				<vendorCode>ET651FNP1E</vendorCode>
+				<model>ET651FNP1E</model>
+				<description>Современная стеклокерамическая варочная панель принесет больше удовольствия в процессе готовки и облегчит процесс очистки.</description>
+			</offer>
+			<offer id="HB634GHW1" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/duhovye-shkafy/vstraivaemye-duhovye-shkafy/HB634GHW1</url>
+				<price>84990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>2</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00769804_416122_HB632GCW1S_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00832389_467821_HB632GCW1S_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00814865_454266_HB632GCW1S_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA03021969_HB_HB634GHW1_Siemens_S600_WEI_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA03019558_HB_HB633GHS1_Siemens_S600_EDE_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00794084_440218_HB632GCW1S_def.png</picture>
+				<barcode>4242003674062</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраиваемый электрический духовой шкаф HB634GHW1</name>
+				<vendorCode>HB634GHW1</vendorCode>
+				<model>HB634GHW1</model>
+				<description>Духовой шкаф Siemens упростит процесс приготовления блюд, позволив добиться прекрасных кулинарных результатов.</description>
+			</offer>
+			<offer id="HB655GTS1" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/duhovye-shkafy/vstraivaemye-duhovye-shkafy/HB655GTS1</url>
+				<price>87990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>2</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00930341_389796_HB632GBS1_neu_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA03024329_HB_HB655GTS1_Siemens_S600_EDE_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA03024330_HB_HB655GTS1_Siemens_S600_EDE_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00794075_440210_HB632GBS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00814864_454265_HB632GBS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00830251_466303_HB632GBS1_def.png</picture>
+				<barcode>4242003671634</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраиваемый электрический духовой шкаф HB655GTS1</name>
+				<vendorCode>HB655GTS1</vendorCode>
+				<model>HB655GTS1</model>
+				<description>Духовой шкаф Siemens упростит процесс приготовления блюд, позволив добиться прекрасных кулинарных результатов.</description>
+			</offer>
+			<offer id="HB673GBS1" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/duhovye-shkafy/vstraivaemye-duhovye-shkafy/HB673GBS1</url>
+				<price>94990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>2</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00930341_389796_HB632GBS1_neu_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA03027436_HB_HB672GBS1_Siemens_S600_EDE_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00794075_440210_HB632GBS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA03027413_HB_HB672GBS1_Siemens_S600_EDE_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00814864_454265_HB632GBS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00830251_466303_HB632GBS1_def.png</picture>
+				<barcode>4242003658130</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраиваемый электрический духовой шкаф HB673GBS1</name>
+				<vendorCode>HB673GBS1</vendorCode>
+				<model>HB673GBS1</model>
+				<description>Духовой шкаф Siemens упростит процесс приготовления блюд, позволив добиться прекрасных кулинарных результатов.</description>
+			</offer>
+			<offer id="HB675G0S1" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/duhovye-shkafy/vstraivaemye-duhovye-shkafy/HB675G0S1</url>
+				<price>102990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>2</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00930341_389796_HB632GBS1_neu_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00794075_440210_HB632GBS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00814864_454265_HB632GBS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00830251_466303_HB632GBS1_def.png</picture>
+				<barcode>4242003671696</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраиваемый электрический духовой шкаф HB675G0S1</name>
+				<vendorCode>HB675G0S1</vendorCode>
+				<model>HB675G0S1</model>
+				<description>Духовой шкаф Siemens упростит процесс приготовления блюд, позволив добиться прекрасных кулинарных результатов.</description>
+			</offer>
+			<offer id="HM633GNS1" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/duhovye-shkafy/duhovye-shkafy-s-mikrovolnami/HM633GNS1</url>
+				<price>120990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>2</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00759564_403725_HM633GBS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00837647_472796_114_HM633GNS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00794078_440213_HM633GBS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00830245_466268_HM633GBS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00814621_454137_HM633GBS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00837446_472652_35_HM636GNS1_def.png</picture>
+				<barcode>4242003671887</barcode>
+				<vendor>Siemens</vendor>
+				<name>Духовой шкаф с инт. микроволновой печью HM633GNS1</name>
+				<vendorCode>HM633GNS1</vendorCode>
+				<model>HM633GNS1</model>
+				<description>Духовой шкаф с микроволнами позволит быстро достичь идеальных результатов.</description>
+			</offer>
+			<offer id="HM636GNS1" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/duhovye-shkafy/duhovye-shkafy-s-mikrovolnami/HM636GNS1</url>
+				<price>137990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>2</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00759562_403724_HM676GBS1C_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00814874_454272_HM636GNS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00837647_472796_114_HM633GNS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA03035102_118193__BSH_Siemens_kitchen__stills_scene_08_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00831928_467275_HM636GNS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA03035106_118193__BSH_Siemens_kitchen__stills_scene_11_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00794080_440214_HM636GNS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00837446_472652_35_HM636GNS1_def.png</picture>
+				<barcode>4242003671894</barcode>
+				<vendor>Siemens</vendor>
+				<name>Духовой шкаф с инт. микроволновой печью HM636GNS1</name>
+				<vendorCode>HM636GNS1</vendorCode>
+				<model>HM636GNS1</model>
+				<description>Духовой шкаф с микроволнами позволит быстро достичь идеальных результатов.</description>
+			</offer>
+			<offer id="BI630CNS1" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Словакия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/shkafy-dlja-podogreva-posudy/shkaf-dlja-podogreva-posudy/BI630CNS1</url>
+				<price>47990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>4</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00776815_423867_BI630CNS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00776743_423807_BI630CNS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00776742_423806_BI630CNS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA03035105_118193__BSH_Siemens_kitchen__stills_scene_10_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00835552_F1414_BI630CNS1I_471228_def.png</picture>
+				<barcode>4242003676561</barcode>
+				<vendor>Siemens</vendor>
+				<name>Шкаф для подогрева посуды BI630CNS1</name>
+				<vendorCode>BI630CNS1</vendorCode>
+				<model>BI630CNS1</model>
+				<description>Шкаф для подогрева посуды BI630CNS1</description>
+			</offer>
+			<offer id="BE634LGS1" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Великобритания</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/mikrovolnovye-pechi/vstraivaemye-mikrovolnovye-pechi/BE634LGS1</url>
+				<price>70990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>5</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00776683_423760_BE634LGS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00776681_423759_BE634LGS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00776680_423758_BE634LGS1_def.png</picture>
+				<barcode>4242003676363</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраиваемая микроволновая печь BE634LGS1</name>
+				<vendorCode>BE634LGS1</vendorCode>
+				<model>BE634LGS1</model>
+				<description>Встраиваемая микроволновая печь для быстрого разогрева, размораживания или приготовления блюд.</description>
+			</offer>
+			<offer id="BE634RGS1" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Великобритания</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/mikrovolnovye-pechi/vstraivaemye-mikrovolnovye-pechi/BE634RGS1</url>
+				<price>70990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>5</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00776683_423760_BE634LGS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00776680_423758_BE634LGS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00776867_423899_BE634RGS1_def.png</picture>
+				<barcode>4242003676387</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраиваемая микроволновая печь BE634RGS1</name>
+				<vendorCode>BE634RGS1</vendorCode>
+				<model>BE634RGS1</model>
+				<description>Встраиваемая микроволновая печь для быстрого разогрева, размораживания или приготовления блюд.</description>
+			</offer>
+			<offer id="BF634LGS1" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Великобритания</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/mikrovolnovye-pechi/vstraivaemye-mikrovolnovye-pechi/BF634LGS1</url>
+				<price>67990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>5</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00776840_423884_BF634LGS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00776791_423848_BF634LGS1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00776792_423849_BF634LGS1_def.png</picture>
+				<barcode>4242003676400</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраиваемая микроволновая печь BF634LGS1</name>
+				<vendorCode>BF634LGS1</vendorCode>
+				<model>BF634LGS1</model>
+				<description>Встраиваемая микроволновая печь для быстрого разогрева, размораживания или приготовления блюд.</description>
+			</offer>
+			<offer id="BF634LGW1" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Великобритания</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/mikrovolnovye-pechi/vstraivaemye-mikrovolnovye-pechi/BF634LGW1</url>
+				<price>67990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>5</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00776843_423886_BF634LGW1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00776793_423850_BF634LGW1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00776790_423847_BF634LGW1_def.png</picture>
+				<barcode>4242003676424</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраиваемая микроволновая печь BF634LGW1</name>
+				<vendorCode>BF634LGW1</vendorCode>
+				<model>BF634LGW1</model>
+				<description>Встраиваемая микроволновая печь для быстрого разогрева, размораживания или приготовления блюд.</description>
+			</offer>
+			<offer id="WS12L247OE" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Россия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/uhod-za-belem/stiralnye-mashiny/stiralnaja-mashina-s-frontalnoj-zagruzkoj/WS12L247OE</url>
+				<price>35990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>6</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02433155_WS12L247OE_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02433148_WS12L247OE_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01999810_Sidewall_S18_Siemens_White_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02065177_Drum_S18_S21_White_Grey_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02433147_WS12L247OE_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02433146_WS12L247OE_PGA3_def.png</picture>
+				<barcode>4242003830567</barcode>
+				<vendor>Siemens</vendor>
+				<name>Полн. автомат. стиральная машина WS12L247OE</name>
+				<vendorCode>WS12L247OE</vendorCode>
+				<model>WS12L247OE</model>
+				<description>Стиральная машина с бесщеточным мотором нового поколения iQdrive: бережная стирка дорогих вам вещей в течение многих лет.</description>
+			</offer>
+			<offer id="WS12L142OE" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Россия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/uhod-za-belem/stiralnye-mashiny/stiralnaja-mashina-s-frontalnoj-zagruzkoj/WS12L142OE</url>
+				<price>32990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>6</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02413940_WS12L142OE_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02414082_WS12L142OE_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02414083_WS12L142OE_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01999810_Sidewall_S18_Siemens_White_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02065177_Drum_S18_S21_White_Grey_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02414085_WS12L142OE_PGA1_def.png</picture>
+				<barcode>4242003829172</barcode>
+				<vendor>Siemens</vendor>
+				<name>Полн. автомат. стиральная машина WS12L142OE</name>
+				<vendorCode>WS12L142OE</vendorCode>
+				<model>WS12L142OE</model>
+				<description>Стиральная машина с бесщеточным мотором нового поколения iQdrive: бережная стирка дорогих вам вещей в течение многих лет.</description>
+			</offer>
+			<offer id="WS10G140OE" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Россия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/uhod-za-belem/stiralnye-mashiny/stiralnaja-mashina-s-frontalnoj-zagruzkoj/WS10G140OE</url>
+				<price>26990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>6</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00439702_WS10G140OE_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02065190_Drum_S16_White_Grey_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01999781_Sidewall_Siemens_S16_White_def.png</picture>
+				<barcode>4242003604700</barcode>
+				<vendor>Siemens</vendor>
+				<name>Полн. автомат. стиральная машина WS10G140OE</name>
+				<vendorCode>WS10G140OE</vendorCode>
+				<model>WS10G140OE</model>
+				<description>Стиральная машина с программой быстрого освежения белья «Супер 30’/15’»: подготовьтесь к важной встрече в одно мгновение.</description>
+			</offer>
+			<offer id="WS10G240OE" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Россия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/uhod-za-belem/stiralnye-mashiny/stiralnaja-mashina-s-frontalnoj-zagruzkoj/WS10G240OE</url>
+				<price>28990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>6</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00439704_WS10G240OE_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02065190_Drum_S16_White_Grey_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01999781_Sidewall_Siemens_S16_White_def.png</picture>
+				<barcode>4242003604670</barcode>
+				<vendor>Siemens</vendor>
+				<name>Полн. автомат. стиральная машина WS10G240OE</name>
+				<vendorCode>WS10G240OE</vendorCode>
+				<model>WS10G240OE</model>
+				<description>Стиральная машина с программой «Outdoor»: ваша одежда для активного отдыха будет чистой и сохранит свои специальные свойства.</description>
+			</offer>
+			<offer id="WS12T440OE" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Россия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/uhod-za-belem/stiralnye-mashiny/stiralnaja-mashina-s-frontalnoj-zagruzkoj/WS12T440OE</url>
+				<price>35990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>6</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00852343_WS12T440OE_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00805906_Antivib_SE_S18_FPB_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01999810_Sidewall_S18_Siemens_White_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01986044_Drum_S18_S21_white_anthracite_def.png</picture>
+				<barcode>4242003681367</barcode>
+				<vendor>Siemens</vendor>
+				<name>Полн. автомат. стир. машина WS12T440OE</name>
+				<vendorCode>WS12T440OE</vendorCode>
+				<model>WS12T440OE</model>
+				<description>Стиральная машина с бесщеточным мотором нового поколения iQdrive: бережная стирка дорогих вам вещей в течение многих лет.</description>
+			</offer>
+			<offer id="WS12T540OE" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Россия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/uhod-za-belem/stiralnye-mashiny/stiralnaja-mashina-s-frontalnoj-zagruzkoj/WS12T540OE</url>
+				<price>39990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>6</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01751673_WS12T540OE_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01999810_Sidewall_S18_Siemens_White_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02065177_Drum_S18_S21_White_Grey_def.png</picture>
+				<barcode>4242003768020</barcode>
+				<vendor>Siemens</vendor>
+				<name>Полн. автомат. стир. машина WS12T540OE</name>
+				<vendorCode>WS12T540OE</vendorCode>
+				<model>WS12T540OE</model>
+				<description>Стиральная машина с технологией удаления пятен stainExpert и инновационным мотором iQdrive: безупречная стирка в течение многих лет.</description>
+			</offer>
+			<offer id="ER6A6PD70R" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Испания</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/varochnye-paneli/gazovye-varochnye-paneli/ER6A6PD70R</url>
+				<price>56990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>3</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01656998_ER6A6PD70_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01775585_ER3A6AD70_GasHob_build-in_Siemens_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01835277_ER6A6PD70_GasHob_build-in_Siemens_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01835293_ER6A6PD70_GasHob_build-in_Bosch_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01790024_ER6A6PD70_GasHob_build-in_Siemens_PGA5_def.png</picture>
+				<barcode>4242003742785</barcode>
+				<vendor>Siemens</vendor>
+				<name>Газовая варочная панель ER6A6PD70R</name>
+				<vendorCode>ER6A6PD70R</vendorCode>
+				<model>ER6A6PD70R</model>
+				<description>Газовая варочная поверхность с технологией stepFlame для точного контроля пламени на 9 ступенях.</description>
+			</offer>
+			<offer id="EC6A2PB90R" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Испания</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/varochnye-paneli/gazovye-varochnye-paneli/EC6A2PB90R</url>
+				<price>24990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>3</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01676010_EC6A2PB90R_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01837521_EC6A2PB90R_GasHob_build-in_Siemens_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01791261_EC6A2PB90R_GasHob_build-in_Siemens_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01837519_EC6A2PB90R_GasHob_build-in_Siemens_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01797923_EC6A2PB90R_GasHob_build-in_Siemens_PGA2_def.png</picture>
+				<barcode>4242003741955</barcode>
+				<vendor>Siemens</vendor>
+				<name>Газовая варочная панель EC6A2PB90R</name>
+				<vendorCode>EC6A2PB90R</vendorCode>
+				<model>EC6A2PB90R</model>
+				<description>Газовая варочная панель с технологией stepFlame для точного контроля пламени на 9 ступенях.</description>
+			</offer>
+			<offer id="EC6A5PB90R" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Испания</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/varochnye-paneli/gazovye-varochnye-paneli/EC6A5PB90R</url>
+				<price>24990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>3</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01657100_EC6A5PB90_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01837507_EC6A5PB90_GasHob_build-in_Siemens_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01797919_EC6A5PB90_GasHob_build-in_Siemens_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01837511_EC6A5PB90_GasHob_build-in_Siemens_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01791254_EC6A5PB90_GasHob_build-in_Siemens_PGA5_def.png</picture>
+				<barcode>4242003742068</barcode>
+				<vendor>Siemens</vendor>
+				<name>Газовая варочная панель EC6A5PB90R</name>
+				<vendorCode>EC6A5PB90R</vendorCode>
+				<model>EC6A5PB90R</model>
+				<description>Газовая варочная поверхность с технологией stepFlame для точного контроля пламени на 9 ступенях.</description>
+			</offer>
+			<offer id="EC6A6PB90R" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Испания</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/varochnye-paneli/gazovye-varochnye-paneli/EC6A6PB90R</url>
+				<price>24990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>3</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01676006_EC6A6PB90R_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01837516_EC6A6PB90R_GasHob_build-in_Siemens_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01837517_EC6A6PB90R_GasHob_build-in_Siemens_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01791256_EC6A6PB90R_GasHob_build-in_Siemens_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01797922_EC6A6PB90R_GasHob_build-in_Siemens_PGA2_def.png</picture>
+				<barcode>4242003742099</barcode>
+				<vendor>Siemens</vendor>
+				<name>Газовая варочная панель EC6A6PB90R</name>
+				<vendorCode>EC6A6PB90R</vendorCode>
+				<model>EC6A6PB90R</model>
+				<description>Газовая варочная поверхность с технологией stepFlame для точного контроля пламени на 9 ступенях.</description>
+			</offer>
+			<offer id="EC7A5QB90R" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Испания</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/varochnye-paneli/gazovye-varochnye-paneli/EC7A5QB90R</url>
+				<price>35990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>3</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01657109_EC7A5QB90_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01791656_EC7A5QB90_GasHob_build-in_Siemens_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01837535_EC7A5QB90_GasHob_build-in_Siemens_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01797919_EC6A5PB90_GasHob_build-in_Siemens_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01833595_EC7A5QB90_GasHob_build-in_Siemens_PGA4_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01837543_EC7A5QB90_GasHob_build-in_Siemens_PGA3_def.png</picture>
+				<barcode>4242003742129</barcode>
+				<vendor>Siemens</vendor>
+				<name>Газовая варочная панель EC7A5QB90R</name>
+				<vendorCode>EC7A5QB90R</vendorCode>
+				<model>EC7A5QB90R</model>
+				<description>Газовая варочная поверхность с технологией stepFlame для точного контроля пламени на 9 ступенях.</description>
+			</offer>
+			<offer id="EP6A2PB20R" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Испания</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/varochnye-paneli/gazovye-varochnye-paneli/EP6A2PB20R</url>
+				<price>29990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>3</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01683851_EP6A2PB20_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01838333_EP6A2PB20_GasHob_build-in_Siemens_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01797905_EP6A2PB20_GasHob_build-in_Siemens_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01838337_EP6A2PB20_GasHob_build-in_Siemens_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01790044_EP6A2PB20_GasHob_build-in_Siemens_PGA5_def.png</picture>
+				<barcode>4242003826867</barcode>
+				<vendor>Siemens</vendor>
+				<name>Газовая варочная панель EP6A2PB20R</name>
+				<vendorCode>EP6A2PB20R</vendorCode>
+				<model>EP6A2PB20R</model>
+				<description>Газовая варочная поверхность с технологией stepFlame для точного контроля пламени на 9 ступенях.</description>
+			</offer>
+			<offer id="ET375FFP1E" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Испания</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/varochnye-paneli/kombinirovannye-varochnye-paneli/ET375FFP1E</url>
+				<price>22990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>3</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01734572_ET375FFP1E_ElectricHob_Siemens_STP_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01734575_ET375FFP1E_ElectricHob_Siemens_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01734576_ET375FFP1E_ElectricHob_Siemens_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01752881_ET675FNP1E_ElectricHob_Siemens_PGA2_def.png</picture>
+				<barcode>4242003755075</barcode>
+				<vendor>Siemens</vendor>
+				<name>Электрическая варочная панель ET375FFP1E</name>
+				<vendorCode>ET375FFP1E</vendorCode>
+				<model>ET375FFP1E</model>
+				<description>Современная стеклокерамическая варочная панель Domino: больше удовольствия в процесс готовки и меньше процесса уборки.</description>
+			</offer>
+			<offer id="EC6A5IB90R" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Испания</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/varochnye-paneli/gazovye-varochnye-paneli/EC6A5IB90R</url>
+				<price>26990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>3</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01657105_EC6A5IB90_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01837524_EC6A5IB90_GasHob_build-in_Siemens_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01837528_EC6A5IB90_GasHob_build-in_Siemens_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01797919_EC6A5PB90_GasHob_build-in_Siemens_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01791650_EC6A5IB90_GasHob_build-in_Siemens_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01833594_EC6A5IB90_GasHob_build-in_Siemens_PGA4_def.png</picture>
+				<barcode>4242003826942</barcode>
+				<vendor>Siemens</vendor>
+				<name>Газовая варочная панель EC6A5IB90R</name>
+				<vendorCode>EC6A5IB90R</vendorCode>
+				<model>EC6A5IB90R</model>
+				<description>Газовая варочная поверхность с технологией stepFlame для точного контроля пламени на 9 ступенях.</description>
+			</offer>
+			<offer id="HB237GBS0R" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Испания</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/duhovye-shkafy/vstraivaemye-duhovye-shkafy/HB237GBS0R</url>
+				<price>37990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>2</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02410108_HB237A0S0_Siemens_STP_FullSizeOven__EOX5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02800213_Siemens_HB237GBS0R_5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02799756_Siemens_HB237GBS0R_7_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02799597_Siemens_HB237GBS0R_2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02799816_Siemens_HB237GBS0R_4_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02805297_6_EB_HB237GBS0R_Siemens_S520_EDE_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02800469_6_EB_HB237GBS0R_Siemens_S520_EDE_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02800028_Siemens_HB237GBS0R_3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02800138_Siemens_HB237GBS0R_6_def.png</picture>
+				<barcode>4242003815014</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраиваемый электрический духовой шкаф HB237GBS0R</name>
+				<vendorCode>HB237GBS0R</vendorCode>
+				<model>HB237GBS0R</model>
+				<description>Печь с 3D hotAir Plus и cookControl для отличной производительности для приготовления пищи, а покрытие ecoClean Plus облегчает очистку.</description>
+			</offer>
+			<offer id="HB278GES0R" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Испания</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/duhovye-shkafy/vstraivaemye-duhovye-shkafy/HB278GES0R</url>
+				<price>73990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>2</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01974779_HB278GTS0_Siemens_STP_FullSizeOven__EOX5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02800134_Siemens_HB278GES0R_6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02805311_10_HB278GES0R_FullSizeOven_Siemens_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02800218_Siemens_HB278GES0R_5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02800032_Siemens_HB278GES0R_3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02799763_Siemens_HB278GES0R_7_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02799820_Siemens_HB278GES0R_4_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02800473_10_HB278GES0R_FullSizeOven_Siemens_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02799601_Siemens_HB278GES0R_2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02286063_719_HB278GTS0_FullSizeOven_Siemens_PGA1_def.png</picture>
+				<barcode>4242003815090</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраиваемый электрический духовой шкаф HB278GES0R</name>
+				<vendorCode>HB278GES0R</vendorCode>
+				<model>HB278GES0R</model>
+				<description>Печь с 3D hotAir Plus и cookControl для отличной производительности приготовления и технология activeClean для пиролитической самоочистки.</description>
+			</offer>
+			<offer id="HB317GBS0R" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Испания</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/duhovye-shkafy/vstraivaemye-duhovye-shkafy/HB317GBS0R</url>
+				<price>36990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>2</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01975094_HB337A0S0_Siemens_STP_FullSizeOven__EOX5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02800033_Siemens_HB317BES0R_3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02800133_Siemens_HB317GBS0R_6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02799765_Siemens_HB317GBS0R_7_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02800219_Siemens_HB317GBS0R_5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02805315_11_HB317GBS0R_FullSizeOven_Siemens_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02286098_695_HB337A0S0_FullSizeOven_Siemens_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02799821_Siemens_HB317GBS0R_4_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02820628_Siemens_HB317GBS0R_2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02800474_11_HB317GBS0R_FullSizeOven_Siemens_PGA2_def.png</picture>
+				<barcode>4242003815106</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраиваемый электрический духовой шкаф HB317GBS0R</name>
+				<vendorCode>HB317GBS0R</vendorCode>
+				<model>HB317GBS0R</model>
+				<description>Духовка с 3D hotAir Plus и cookControl для отличной производительности для приготовления пищи, а также покрытие graniteGlance для беззаботной и экономичной очистки.</description>
+			</offer>
+			<offer id="HB537GES0R" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Испания</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/duhovye-shkafy/vstraivaemye-duhovye-shkafy/HB537GES0R</url>
+				<price>37990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>2</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01973472_HB517GBS0_Siemens_STP_FullSizeOven__EOX5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02799774_Siemens_HB537GES0R_7_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02800480_17_HB537GES0R_FullSizeOven_Siemens_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02800038_Siemens_HB537GES0R_3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02799609_Siemens_HB537GES0R_2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02322381_701_HB517GBS0_FullSizeOven_Siemens_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02805331_17_HB537GES0R_FullSizeOven_Siemens_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02800128_Siemens_HB537GES0R_6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02799827_Siemens_HB537GES0R_4_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02800224_Siemens_HB537GES0R_5_def.png</picture>
+				<barcode>4242003815304</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраиваемый электрический духовой шкаф HB537GES0R</name>
+				<vendorCode>HB537GES0R</vendorCode>
+				<model>HB537GES0R</model>
+				<description>Печь с 3D hotAir Plus и cookControl для отличной производительности для приготовления пищи, а покрытие ecoClean Plus облегчает очистку.</description>
+			</offer>
+			<offer id="HB557GSW0R" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Испания</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/duhovye-shkafy/vstraivaemye-duhovye-shkafy/HB557GSW0R</url>
+				<price>61990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>2</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01973594_HB557A5W0_Siemens_STP_FullSizeOven__EOX5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02805338_20_HB557GSW0R_FullSizeOven_Siemens_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02800493_20_HB557GSW0R_FullSizeOven_Siemens_PGA2_def.png</picture>
+				<barcode>4242003815366</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраиваемый электрический духовой шкаф HB557GSW0R</name>
+				<vendorCode>HB557GSW0R</vendorCode>
+				<model>HB557GSW0R</model>
+				<description>Печь с 3D hotAir Plus и cookControl для отличной производительности для приготовления пищи, а покрытие ecoClean Plus облегчает очистку.</description>
+			</offer>
+			<offer id="HB578GES0R" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Испания</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/duhovye-shkafy/vstraivaemye-duhovye-shkafy/HB578GES0R</url>
+				<price>73990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>2</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01973400_HB578GBS0Y_Siemens_STP_FullSizeOven__EOX5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02800125_Siemens_HB578GES0R_6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02320015_678_HB578GBS0Y_FullSizeOven_Siemens_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02805339_21_HB578GES0R_FullSizeOven_Siemens_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02799780_Siemens_HB578GES0R_7_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02800227_Siemens_HB578GES0R_5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02799644_Siemens_HB578GES0R_2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02799831_Siemens_HB578GES0R_4_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02800041_Siemens_HB578GES0R_3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02800494_21_HB578GES0R_FullSizeOven_Siemens_PGA2_def.png</picture>
+				<barcode>4242003815441</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраиваемый электрический духовой шкаф HB578GES0R</name>
+				<vendorCode>HB578GES0R</vendorCode>
+				<model>HB578GES0R</model>
+				<description>Печь с 3D hotAir Plus и cookControl для отличной производительности приготовления и технология activeClean для пиролитической самоочистки.</description>
+			</offer>
+			<offer id="EU631FEB1E" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Испания</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/varochnye-paneli/indukcionnye-varochnye-paneli/EU631FEB1E</url>
+				<price>37990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>3</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01736975_EU631FEB1E_ElectricHob_Siemens_STP_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01801140_EU631FEB1E_ElectricHob_Siemens_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01059102_DA3_ET631BK17E_Facette_vorne_Siemens_Black_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01807487_EU631FCB1E_ElectricHob_Siemens_PGA3_def.png</picture>
+				<barcode>4242003716625</barcode>
+				<vendor>Siemens</vendor>
+				<name>Индукционная варочная панель EU631FEB1E</name>
+				<vendorCode>EU631FEB1E</vendorCode>
+				<model>EU631FEB1E</model>
+				<description>Индукционная варочная панель Siemens для быстрого и тщательного приготовления с небольшими затратами электроэнергии и легкостью очистки прибора.</description>
+			</offer>
+			<offer id="EX652FEC1E" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Испания</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/varochnye-paneli/indukcionnye-varochnye-paneli/EX652FEC1E</url>
+				<price>80990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>3</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01679904_1125611_EX652FEC1E_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01683204_DA6_EX652FEC1E_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01683202_DA2_EX652FEC1E_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01774938_EH652FFB1E_ElectricHob_Siemens_PGA2_def.png</picture>
+				<barcode>4242003758076</barcode>
+				<vendor>Siemens</vendor>
+				<name>Индукционная варочная панель EX652FEC1E</name>
+				<vendorCode>EX652FEC1E</vendorCode>
+				<model>EX652FEC1E</model>
+				<description>Индукционная варочная панель Siemens для быстрого и тщательного приготовления с небольшими затратами электроэнергии и легкостью очистки прибора.</description>
+			</offer>
+			<offer id="EH645BFB1E" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Испания</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/varochnye-paneli/indukcionnye-varochnye-paneli/EH645BFB1E</url>
+				<price>40990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>3</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00997965_621837_EH645BFB1E_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01058957_DA3_T16BT60N0E_BasicFrame_ede_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01797383_EH645BFB1E_ElectricHob_Siemens_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01065197_DA2_EH645BFB1E_def.png</picture>
+				<barcode>4242003716168</barcode>
+				<vendor>Siemens</vendor>
+				<name>Индукционная варочная панель EH645BFB1E</name>
+				<vendorCode>EH645BFB1E</vendorCode>
+				<model>EH645BFB1E</model>
+				<description>Индукционная варочная панель Siemens для быстрого и тщательного приготовления с небольшими затратами электроэнергии и легкостью очистки прибора.</description>
+			</offer>
+			<offer id="EH651FFB1E" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Испания</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/varochnye-paneli/indukcionnye-varochnye-paneli/EH651FFB1E</url>
+				<price>51990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>3</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00998327_622183_EH651FFB1E_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01807707_EH651FFB1E_ElectricHob_Siemens_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01509738_DA2_EH651FFB1E_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01059044_DA3_ET651BF17E_U-Facette_Siemens_Black_def.png</picture>
+				<barcode>4242003716229</barcode>
+				<vendor>Siemens</vendor>
+				<name>Индукционная варочная панель EH651FFB1E</name>
+				<vendorCode>EH651FFB1E</vendorCode>
+				<model>EH651FFB1E</model>
+				<description>Индукционная варочная панель Siemens для быстрого и тщательного приготовления с небольшими затратами электроэнергии и легкостью очистки прибора.</description>
+			</offer>
+			<offer id="EH875FFB1E" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Испания</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/varochnye-paneli/indukcionnye-varochnye-paneli/EH875FFB1E</url>
+				<price>90990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>3</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00998410_622194_EH875FFB1E_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01807691_EH875FFB1E_ElectricHob_Siemens_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01058954_DA3_ET675LMP1D_Top_Siemens_Facette%20vorne,%20Profile%20seitl_Black_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01509739_DA2_EH875FFB1E_def.png</picture>
+				<barcode>4242003698167</barcode>
+				<vendor>Siemens</vendor>
+				<name>Индукционная варочная панель EH875FFB1E</name>
+				<vendorCode>EH875FFB1E</vendorCode>
+				<model>EH875FFB1E</model>
+				<description>Индукционная варочная панель Siemens для быстрого и тщательного приготовления с небольшими затратами электроэнергии и легкостью очистки прибора.</description>
+			</offer>
+			<offer id="EX375FXB1E" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Испания</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/varochnye-paneli/kombinirovannye-varochnye-paneli/EX375FXB1E</url>
+				<price>42990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>3</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00999393_622955_EX375FXB1E_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01806514_EX375FXB1E_ElectricHob_Siemens_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01058954_DA3_ET675LMP1D_Top_Siemens_Facette%20vorne,%20Profile%20seitl_Black_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01065189_DA2_EX375FXB1E_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA03035105_118193__BSH_Siemens_kitchen__stills_scene_10_def.png</picture>
+				<barcode>4242003697405</barcode>
+				<vendor>Siemens</vendor>
+				<name>Индукционная варочная панель EX375FXB1E</name>
+				<vendorCode>EX375FXB1E</vendorCode>
+				<model>EX375FXB1E</model>
+				<description>Индукционная варочная панель Siemens для быстрого и тщательного приготовления с небольшими затратами электроэнергии и легкостью очистки прибора.</description>
+			</offer>
+			<offer id="EX675LXC1E" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Испания</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/varochnye-paneli/indukcionnye-varochnye-paneli/EX675LXC1E</url>
+				<price>89990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>3</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01011063_633460_EX675LXC1E_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01508792_DA2_EX675LXC1E_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01806197_EX675LXC1E_ElectricHob_Siemens_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01058954_DA3_ET675LMP1D_Top_Siemens_Facette%20vorne,%20Profile%20seitl_Black_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01011069_633465_EX675LXC1E_unlighted_def.png</picture>
+				<barcode>4242003716885</barcode>
+				<vendor>Siemens</vendor>
+				<name>Индукционная варочная панель EX675LXC1E</name>
+				<vendorCode>EX675LXC1E</vendorCode>
+				<model>EX675LXC1E</model>
+				<description>Индукционная варочная панель Siemens для быстрого и тщательного приготовления с небольшими затратами электроэнергии и легкостью очистки прибора.</description>
+			</offer>
+			<offer id="SN656X06TR" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/myte-posudy/vstraivaemye-posudomoechnye-mashiny/polnovstraivaemye-posudomoechnye-mashiny/SN656X06TR</url>
+				<price>99990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>7</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02507148_i4375_1881218_SN656X06TR_CMYK_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00786238_A5_E7858_SN278I03TE_431823_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00786235_A4_E7856_SN278I03TE_431819_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01973965_H2065_SN658X00ME_1377201_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02183931_H7205_1586777_SN578S01TE_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02507087_i4414_1881182_SN656X06TR_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02507089_i4415_1881185_SN656X06TR_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00786236_A6_E7857_SN278I03TE_431820_def.png</picture>
+				<barcode>4242003834633</barcode>
+				<vendor>Siemens</vendor>
+				<name>Полн. интегрирован. посудом. машина SN656X06TR</name>
+				<vendorCode>SN656X06TR</vendorCode>
+				<model>SN656X06TR</model>
+				<description>Полноразмерная встраиваемая посудомоечная машина с пятью уровнями распределения воды обеспечивает превосходный результат мытья.</description>
+			</offer>
+			<offer id="SR615X83NR" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/myte-posudy/vstraivaemye-posudomoechnye-mashiny/polnovstraivaemye-posudomoechnye-mashiny/SR615X83NR</url>
+				<price>33990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>7</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02724187_i8726_2067591_SR615X83NR_CMYK_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02061189_H4639_SR536S01ME_1451597_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02183936_H7201_1586783_SR636X01ME_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02077519_H4922_SR536W01ME_1466733_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02125849_H6099_SR536W01ME_1521024_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02724162_i8738_2067569_SR615X83NR_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00665196_RotesInfoLight_SN64M080EU_SE_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02724172_i8746_2067576_SR615X83NR_PGA3_def.png</picture>
+				<barcode>4242003846407</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраиваемая посудомоечная машина SR615X83NR</name>
+				<vendorCode>SR615X83NR</vendorCode>
+				<model>SR615X83NR</model>
+				<description>Узкая встраиваемая посудомоечная машина cбережет драгоценное время и поместится даже на небольшой кухне. Пять уровней распределения воды обеспечат превосходный результат мытья.</description>
+			</offer>
+			<offer id="SR615X11IR" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/myte-posudy/vstraivaemye-posudomoechnye-mashiny/polnovstraivaemye-posudomoechnye-mashiny/SR615X11IR</url>
+				<price>29990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>7</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02724181_i8723_2067588_SR615X11IR_CMYK_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02724150_i8741_2067551_SR615X11IR_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02724148_i8734_2067548_SR615X11IR_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02064287_H4651_1454443_SR636X07IE_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02077506_H4921_SR236W07IE_1466718_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02125681_H6096_SR236W07IE_1520761_PGA5_def.png</picture>
+				<barcode>4242003846346</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраиваемая посудомоечная машина SR615X11IR</name>
+				<vendorCode>SR615X11IR</vendorCode>
+				<model>SR615X11IR</model>
+				<description>Узкая встраиваемая посудомоечная машина cбережет драгоценное время и поместится даже на небольшой кухне. Пять уровней распределения воды обеспечат превосходный результат мытья.</description>
+			</offer>
+			<offer id="SR615X21DR" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/myte-posudy/vstraivaemye-posudomoechnye-mashiny/polnovstraivaemye-posudomoechnye-mashiny/SR615X21DR</url>
+				<price>27990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>7</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02724183_i8724_2067589_SR615X21DR_CMYK_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02064192_H4649_1454345_SPV25CX02E_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02724157_i8744_2067564_SR615X21DR_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02077603_H4925_SPV25CX02E_1466822_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02724152_i8736_2067553_SR615X21DR_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02107867_H5577_SPV25CX02E_1500632_PGA5_def.png</picture>
+				<barcode>4242003846353</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраиваемая посудомоечная машина SR615X21DR</name>
+				<vendorCode>SR615X21DR</vendorCode>
+				<model>SR615X21DR</model>
+				<description>Узкая встраиваемая посудомоечная машина cбережет драгоценное время и поместится даже на небольшой кухне. Пять уровней распределения воды обеспечат превосходный результат мытья.</description>
+			</offer>
+			<offer id="SR615X21IR" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/myte-posudy/vstraivaemye-posudomoechnye-mashiny/polnovstraivaemye-posudomoechnye-mashiny/SR615X21IR</url>
+				<price>29990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>7</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02724179_i8722_2067587_SR615X21IR_CMYK_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02064287_H4651_1454443_SR636X07IE_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02724153_i8742_2067556_SR615X21IR_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02077506_H4921_SR236W07IE_1466718_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02125681_H6096_SR236W07IE_1520761_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02724151_i8735_2067552_SR615X21IR_PGA1_def.png</picture>
+				<barcode>4242003846360</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраиваемая посудомоечная машина SR615X21IR</name>
+				<vendorCode>SR615X21IR</vendorCode>
+				<model>SR615X21IR</model>
+				<description>Узкая встраиваемая посудомоечная машина cбережет драгоценное время и поместится даже на небольшой кухне. Пять уровней распределения воды обеспечат превосходный результат мытья.</description>
+			</offer>
+			<offer id="SR615X31DR" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/myte-posudy/vstraivaemye-posudomoechnye-mashiny/polnovstraivaemye-posudomoechnye-mashiny/SR615X31DR</url>
+				<price>27990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>7</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02724189_i8727_2067592_SR615X31DR_CMYK_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02064192_H4649_1454345_SPV25CX02E_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02077603_H4925_SPV25CX02E_1466822_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02724154_i8743_2067561_SR615X31DR_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02724155_i8737_2067563_SR615X31DR_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02107867_H5577_SPV25CX02E_1500632_PGA5_def.png</picture>
+				<barcode>4242003846377</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраиваемая посудомоечная машина SR615X31DR</name>
+				<vendorCode>SR615X31DR</vendorCode>
+				<model>SR615X31DR</model>
+				<description>Узкая встраиваемая посудомоечная машина cбережет драгоценное время и поместится даже на небольшой кухне. Пять уровней распределения воды обеспечат превосходный результат мытья.</description>
+			</offer>
+			<offer id="SR615X31IR" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/myte-posudy/vstraivaemye-posudomoechnye-mashiny/polnovstraivaemye-posudomoechnye-mashiny/SR615X31IR</url>
+				<price>29990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>7</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02724185_i8725_2067590_SR615X31IR_CMYK_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02724164_i8745_2067570_SR615X31IR_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02064287_H4651_1454443_SR636X07IE_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02077506_H4921_SR236W07IE_1466718_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02724165_i8739_2067571_SR615X31IR_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02125681_H6096_SR236W07IE_1520761_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00665196_RotesInfoLight_SN64M080EU_SE_def.png</picture>
+				<barcode>4242003846384</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраиваемая посудомоечная машина SR615X31IR</name>
+				<vendorCode>SR615X31IR</vendorCode>
+				<model>SR615X31IR</model>
+				<description>Узкая встраиваемая посудомоечная машина cбережет драгоценное время и поместится даже на небольшой кухне. Пять уровней распределения воды обеспечат превосходный результат мытья.</description>
+			</offer>
+			<offer id="SR655X31MR" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/myte-posudy/vstraivaemye-posudomoechnye-mashiny/polnovstraivaemye-posudomoechnye-mashiny/SR655X31MR</url>
+				<price>36990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>7</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02724192_i8728_2067593_SR655X31MR_CMYK_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02061189_H4639_SR536S01ME_1451597_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02183936_H7201_1586783_SR636X01ME_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02724176_i8747_2067582_SR655X31MR_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02077519_H4922_SR536W01ME_1466733_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02125849_H6099_SR536W01ME_1521024_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00665196_RotesInfoLight_SN64M080EU_SE_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02724175_i8740_2067580_SR655X31MR_PGA1_def.png</picture>
+				<barcode>4242003846391</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраиваемая посудомоечная машина SR655X31MR</name>
+				<vendorCode>SR655X31MR</vendorCode>
+				<model>SR655X31MR</model>
+				<description>Узкая встраиваемая посудомоечная машина cбережет драгоценное время и поместится даже на небольшой кухне. Пять уровней распределения воды обеспечат превосходный результат мытья.</description>
+			</offer>
+			<offer id="SR615X10DR" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/myte-posudy/vstraivaemye-posudomoechnye-mashiny/polnovstraivaemye-posudomoechnye-mashiny/SR615X10DR</url>
+				<price>27990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>7</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02276863_H8489_1684028_SR615X10DR_CMYK_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02064192_H4649_1454345_SPV25CX02E_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02077603_H4925_SPV25CX02E_1466822_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02107867_H5577_SPV25CX02E_1500632_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02276864_H8527_1684031_SR615X10DR_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02276861_H8504_1684027_SR615X10DR_def.png</picture>
+				<barcode>4242003823958</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраиваемая посудомоечная машина SR615X10DR</name>
+				<vendorCode>SR615X10DR</vendorCode>
+				<model>SR615X10DR</model>
+				<description>Узкая встраиваемая посудомоечная машина cбережет драгоценное время и поместится даже на небольшой кухне. Пять уровней распределения воды обеспечат превосходный результат мытья.</description>
+			</offer>
+			<offer id="SN678D55TR" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/myte-posudy/vstraivaemye-posudomoechnye-mashiny/polnovstraivaemye-posudomoechnye-mashiny/SN678D55TR</url>
+				<price>132990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>7</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02331085_i0055_1734258_SN678D55TR_CMYK_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00786238_A5_E7858_SN278I03TE_431823_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00786235_A4_E7856_SN278I03TE_431819_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00786236_A6_E7857_SN278I03TE_431820_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02333398_i0116_1735796_SN678D55TR_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02183913_H7216_1586753_SN478S06TS_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02331021_i0105_1734186_SN678D55TR_def.png</picture>
+				<barcode>4242003826386</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраиваемая посудомоечная машина SN678D55TR</name>
+				<vendorCode>SN678D55TR</vendorCode>
+				<model>SN678D55TR</model>
+				<description>Полноразмерная встраиваемая посудомоечная машина с пятью уровнями распределения воды обеспечивает превосходный результат мытья.</description>
+			</offer>
+			<offer id="SR615X72NR" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/myte-posudy/vstraivaemye-posudomoechnye-mashiny/polnovstraivaemye-posudomoechnye-mashiny/SR615X72NR</url>
+				<price>33990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>7</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02334381_i0070_1736700_SR615X72NR_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02061189_H4639_SR536S01ME_1451597_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02183936_H7201_1586783_SR636X01ME_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02334352_i0132_1736674_SR615X72NR_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02077519_H4922_SR536W01ME_1466733_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02125849_H6099_SR536W01ME_1521024_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00665196_RotesInfoLight_SN64M080EU_SE_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02343273_i0975_1745063_SR615X72NR_PGA1_def.png</picture>
+				<barcode>4242003826560</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраиваемая посудомоечная машина SR615X72NR</name>
+				<vendorCode>SR615X72NR</vendorCode>
+				<model>SR615X72NR</model>
+				<description>Узкая встраиваемая посудомоечная машина cбережет драгоценное время и поместится даже на небольшой кухне. Пять уровней распределения воды обеспечат превосходный результат мытья.</description>
+			</offer>
+			<offer id="SR215W01NR" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/myte-posudy/vstraivaemye-posudomoechnye-mashiny/posudomoechnye-mashiny-pod-stoleshnicu/SR215W01NR</url>
+				<price>33990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>7</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02249388_H8016_1657700_SR215W01NR_CMYK_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02061189_H4639_SR536S01ME_1451597_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02249338_H8047_1657627_SR215W01NR_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02077519_H4922_SR536W01ME_1466733_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02125849_H6099_SR536W01ME_1521024_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02697525_i8221_2043949_SR215W01NR_PGA2_def.png</picture>
+				<barcode>4242003823668</barcode>
+				<vendor>Siemens</vendor>
+				<name>Отдельностоящ. посудомоечная машина SR215W01NR</name>
+				<vendorCode>SR215W01NR</vendorCode>
+				<model>SR215W01NR</model>
+				<description>Узкая отдельностоящая посудомоечная машина cбережет драгоценное время и поместится даже на небольшой кухне. Пять уровней распределения воды обеспечат превосходный результат мытья.</description>
+			</offer>
+			<offer id="SR216W01MR" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/myte-posudy/vstraivaemye-posudomoechnye-mashiny/posudomoechnye-mashiny-pod-stoleshnicu/SR216W01MR</url>
+				<price>39990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>7</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02249390_H8017_1657701_SR216W01MR_CMYK_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02249339_H8048_1657629_SR216W01MR_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02061189_H4639_SR536S01ME_1451597_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02077519_H4922_SR536W01ME_1466733_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02125849_H6099_SR536W01ME_1521024_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02697525_i8221_2043949_SR215W01NR_PGA2_def.png</picture>
+				<barcode>4242003823675</barcode>
+				<vendor>Siemens</vendor>
+				<name>Отдельностоящ. посудомоечная машина SR216W01MR</name>
+				<vendorCode>SR216W01MR</vendorCode>
+				<model>SR216W01MR</model>
+				<description>Узкая отдельностоящая посудомоечная машина cбережет драгоценное время и поместится даже на небольшой кухне. Пять уровней распределения воды обеспечат превосходный результат мытья.</description>
+			</offer>
+			<offer id="SR615X90IR" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/myte-posudy/vstraivaemye-posudomoechnye-mashiny/polnovstraivaemye-posudomoechnye-mashiny/SR615X90IR</url>
+				<price>29990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>7</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02276895_H8493_1684051_SR615X90IR_CMYK_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02276896_H8508_1684054_SR615X90IR_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02064287_H4651_1454443_SR636X07IE_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02276897_H8531_1684056_SR615X90IR_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02077506_H4921_SR236W07IE_1466718_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02125681_H6096_SR236W07IE_1520761_PGA5_def.png</picture>
+				<barcode>4242003823996</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраиваемая посудомоечная машина SR615X90IR</name>
+				<vendorCode>SR615X90IR</vendorCode>
+				<model>SR615X90IR</model>
+				<description>Узкая встраиваемая посудомоечная машина cбережет драгоценное время и поместится даже на небольшой кухне. Пять уровней распределения воды обеспечат превосходный результат мытья.</description>
+			</offer>
+			<offer id="SR655X60MR" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/myte-posudy/vstraivaemye-posudomoechnye-mashiny/polnovstraivaemye-posudomoechnye-mashiny/SR655X60MR</url>
+				<price>36990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>7</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02249410_H8027_1657711_SR655X60MR_CMYK_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02061189_H4639_SR536S01ME_1451597_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02183936_H7201_1586783_SR636X01ME_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02249355_H8064_1657672_SR655X60MR_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02077519_H4922_SR536W01ME_1466733_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02125849_H6099_SR536W01ME_1521024_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02250071_H8071_1657992_SR655X60MR_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00665196_RotesInfoLight_SN64M080EU_SE_def.png</picture>
+				<barcode>4242003823774</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраиваемая посудомоечная машина SR655X60MR</name>
+				<vendorCode>SR655X60MR</vendorCode>
+				<model>SR655X60MR</model>
+				<description>Узкая встраиваемая посудомоечная машина cбережет драгоценное время и поместится даже на небольшой кухне. Пять уровней распределения воды обеспечат превосходный результат мытья.</description>
+			</offer>
+			<offer id="SR656X10TR" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/myte-posudy/vstraivaemye-posudomoechnye-mashiny/polnovstraivaemye-posudomoechnye-mashiny/SR656X10TR</url>
+				<price>77990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>7</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02249412_H8028_1657712_SR656X10TR_CMYK_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02250072_H8072_1657994_SR656X10TR_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02249356_H8065_1657678_SR656X10TR_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01029018_F7528_SR68T093EU_650606_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01029305_F7526_SR26T297EU_651052_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02183228_H7095_1585898_SR556S00TE_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00583216_A5_SPV69T30EU_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01089860_F8709_SR26T297EU_679055_def.png</picture>
+				<barcode>4242003823781</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраиваемая посудомоечная машина SR656X10TR</name>
+				<vendorCode>SR656X10TR</vendorCode>
+				<model>SR656X10TR</model>
+				<description>Узкая встраиваемая посудомоечная машина cбережет драгоценное время и поместится даже на небольшой кухне. Пять уровней распределения воды обеспечат превосходный результат мытья.</description>
+			</offer>
+			<offer id="LC65KA270R" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Турция</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/vytjazhki/nastennye-vytjazhki/naklonnye-nastennye-vytjazhki/LC65KA270R</url>
+				<price>23990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>1</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01095724_688117_LC65KA270T_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01912753_DWK065G20R_Schraegesse_Bosch_PGA4_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01669224_LC65KA270T_PGA3_def.png</picture>
+				<barcode>4242003800409</barcode>
+				<vendor>Siemens</vendor>
+				<name>Наклонная вытяжка для настенного монтажа LC65KA270R</name>
+				<vendorCode>LC65KA270R</vendorCode>
+				<model>LC65KA270R</model>
+				<description>Вытяжка для настенного монтажа: убережет потолок и мебель на кухне от оседания на них копоти и жира.</description>
+			</offer>
+			<offer id="LC65KA670R" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Турция</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/prigotovlenie-pishhi/vytjazhki/nastennye-vytjazhki/naklonnye-nastennye-vytjazhki/LC65KA670R</url>
+				<price>23990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>1</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01095726_688118_LC65KA670T_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01912753_DWK065G20R_Schraegesse_Bosch_PGA4_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01669225_LC65KA670T_PGA3_def.png</picture>
+				<barcode>4242003800423</barcode>
+				<vendor>Siemens</vendor>
+				<name>Наклонная вытяжка для настенного монтажа LC65KA670R</name>
+				<vendorCode>LC65KA670R</vendorCode>
+				<model>LC65KA670R</model>
+				<description>Наклонная вытяжка для настенного монтажа LC65KA670R</description>
+			</offer>
+			<offer id="KG49NAI2OR" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Турция</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/ohlazhdenie/holodilniki/otdelnostojashhie-holodilniki-s-nizhnej-morozilnoj-kameroj/KG49NAI2OR</url>
+				<price>112990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>0</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01998141_H6415_KG49NAI2OR_1394335_STP_closed_cmyk_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01998137_H6412_KG49NAI2OR_1394332_PGA6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01998138_H6413_KG49NAI2OR_1394333_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01998135_H6410_KG49NAI2OR_1394330_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01998136_H6411_KG49NAI2OR_1394331_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01998139_H6414_KG49NAI2OR_1394334_PGA4_def.png</picture>
+				<barcode>4242003812136</barcode>
+				<vendor>Siemens</vendor>
+				<name>Отдельност.холод.-мороз.комбинация KG49NAI2OR</name>
+				<vendorCode>KG49NAI2OR</vendorCode>
+				<model>KG49NAI2OR</model>
+				<description>Зона свежести hyperFresh сохранит свежесть овощей и фруктов до 2х раз дольше, а технология noFrost позволит больше не размораживать холодильник</description>
+			</offer>
+			<offer id="KG49NSB2AR" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Турция</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/ohlazhdenie/holodilniki/otdelnostojashhie-holodilniki-s-nizhnej-morozilnoj-kameroj/KG49NSB2AR</url>
+				<price>135990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>0</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01998158_H6421_KG49NSB2AR_1394351_STP_closed_cmyk_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01998143_H6417_KG49NSB2AR_1394337_PGA6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01998144_H6418_KG49NSB2AR_1394338_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01998145_H6419_KG49NSB2AR_1394339_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01998146_H6420_KG49NSB2AR_1394340_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01998142_H6416_KG49NSB2AR_1394336_PGA4_def.png</picture>
+				<barcode>4242003813348</barcode>
+				<vendor>Siemens</vendor>
+				<name>Отдельност.холод.-мороз.комбинация KG49NSB2AR</name>
+				<vendorCode>KG49NSB2AR</vendorCode>
+				<model>KG49NSB2AR</model>
+				<description>Холодильник NoFrost с технологией hyperFresh premium 0° сохраняет свежесть продуктов до 3 раз дольше.</description>
+			</offer>
+			<offer id="KG49NSW2AR" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Турция</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/ohlazhdenie/holodilniki/otdelnostojashhie-holodilniki-s-nizhnej-morozilnoj-kameroj/KG49NSW2AR</url>
+				<price>135990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>0</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02003012_H6427_KG49NSW2AR_1398438_STP_closed_cmyk_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02002996_H6425_KG49NSW2AR_1398416_PGA4_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02002990_H6422_KG49NSW2AR_1398408_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02002992_H6423_KG49NSW2AR_1398410_PGA6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02002998_H6426_KG49NSW2AR_1398419_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02002994_H6424_1398413_KG49NSW2AR_PGA3_def.png</picture>
+				<barcode>4242003813492</barcode>
+				<vendor>Siemens</vendor>
+				<name>Отдельност.холод.-мороз.комбинация KG49NSW2AR</name>
+				<vendorCode>KG49NSW2AR</vendorCode>
+				<model>KG49NSW2AR</model>
+				<description>Холодильник NoFrost с технологией hyperFresh premium 0° сохраняет свежесть продуктов до 3 раз дольше.</description>
+			</offer>
+			<offer id="KG56NHI20R" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Турция</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/ohlazhdenie/holodilniki/otdelnostojashhie-holodilniki-s-nizhnej-morozilnoj-kameroj/KG56NHI20R</url>
+				<price>126990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>0</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02688184_i8315_2036426_KG56NHI20R_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02688137_i8312_2036388_KG56NHI20R_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02688146_i8314_2036390_KG56NHI20R_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02688145_i8313_2036389_KG56NHI20R_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02688135_i8310_2036386_KG56NHI20R_PGA6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02688136_i8311_2036387_KG56NHI20R_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02688134_i8309_2036385_KG56NHI20R_PGA4_def.png</picture>
+				<barcode>4242003838150</barcode>
+				<vendor>Siemens</vendor>
+				<name>Отдельностоящий холодильник-морозильник KG56NHI20R</name>
+				<vendorCode>KG56NHI20R</vendorCode>
+				<model>KG56NHI20R</model>
+				<description>NoFrost холодильник с нижней морозильной камерой, с общим обьемом 559 л и системой свежести hyperFresh plus предлагает еще больше места для хранения продуктов. Благодаря регулируемому уровеню влажности, система hyperFresh plus до двух раз дольше сохраняет свежесть ваших продуктов.</description>
+			</offer>
+			<offer id="KA90IVI20R" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Южная Корея</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/ohlazhdenie/holodilniki/otdelnostojashhie-holodilniki-s-morozilnoj-kameroj-side-by-side/KA90IVI20R</url>
+				<price>164990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>0</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00762608_E6797_KA90IVI20G_407519_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01655931_KA90IVI20R_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01655930_KA90IVI20R_PGA4_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00762601_E6354_KA90DVI20_407513_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01655929_KA90IVI20R_PGA3_def.png</picture>
+				<barcode>4242003678817</barcode>
+				<vendor>Siemens</vendor>
+				<name>Холодильник Side-by-Side KA90IVI20R</name>
+				<vendorCode>KA90IVI20R</vendorCode>
+				<model>KA90IVI20R</model>
+				<description>Холодильник side-by-side с технологией noFrost, не требующий разморозки.</description>
+			</offer>
+			<offer id="KA92NLB35R" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Китай</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/ohlazhdenie/holodilniki/otdelnostojashhie-holodilniki-s-morozilnoj-kameroj-side-by-side/KA92NLB35R</url>
+				<price>218990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>0</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00766993_F3862_KA92NLB35R_411285_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01655961_KA92NLB35_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01655962_KA92NLB35_PGA4_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00766990_F3861_KA92NLB35R_411283_def.png</picture>
+				<barcode>4242003686553</barcode>
+				<vendor>Siemens</vendor>
+				<name>Холодильник Side-by-Side KA92NLB35R</name>
+				<vendorCode>KA92NLB35R</vendorCode>
+				<model>KA92NLB35R</model>
+				<description>Холодильно-морозильная комбинация side-by-side с зоной свежести, которая сохраняет продукты свежими до 2 раз дольше.</description>
+			</offer>
+			<offer id="KG39EAI2OR" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Россия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/ohlazhdenie/holodilniki/otdelnostojashhie-holodilniki-s-nizhnej-morozilnoj-kameroj/KG39EAI2OR</url>
+				<price>47990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>0</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01933747_H5657_KG39EAI2OR_1340453_cmyk_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01933711_H5643_KG39EAI2OR_1340429_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01933708_H5640_KG39EAI2OR_1340426_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01933709_H5641_KG39EAI2OR_1340427_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01933710_H5642_KG39EAI2OR_1340428_PGA6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01933712_H5644_KG39EAI2OR_1340430_PGA4_def.png</picture>
+				<barcode>4242003805497</barcode>
+				<vendor>Siemens</vendor>
+				<name>Отдельност.холод.-мороз.комбинация KG39EAI2OR</name>
+				<vendorCode>KG39EAI2OR</vendorCode>
+				<model>KG39EAI2OR</model>
+				<description>Зона свежести hyperFresh дольше сохраняет продукты свежими, поддерживая оптимальный уровень влажности.</description>
+			</offer>
+			<offer id="KG39EAW21R" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Россия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/ohlazhdenie/holodilniki/otdelnostojashhie-holodilniki-s-nizhnej-morozilnoj-kameroj/KG39EAW21R</url>
+				<price>46990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>0</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01933749_H5658_KG39EAW21R_1340454_cmyk_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01933706_H5638_KG39EAW21R_1340424_PGA4_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01933704_H5636_KG39EAW21R_1340422_PGA6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01933703_H5635_KG39EAW21R_1340421_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01933705_H5637_KG39EAW21R_1340423_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01933707_H5639_KG39EAW21R_1340425_PGA5_def.png</picture>
+				<barcode>4242003805480</barcode>
+				<vendor>Siemens</vendor>
+				<name>Отдельност.холод.-мороз.комбинация KG39EAW21R</name>
+				<vendorCode>KG39EAW21R</vendorCode>
+				<model>KG39EAW21R</model>
+				<description>Зона свежести hyperFresh дольше сохраняет продукты свежими, поддерживая оптимальный уровень влажности.</description>
+			</offer>
+			<offer id="KG39EAX2OR" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Россия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/ohlazhdenie/holodilniki/otdelnostojashhie-holodilniki-s-nizhnej-morozilnoj-kameroj/KG39EAX2OR</url>
+				<price>49990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>0</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01933751_H5659_KG39EAX2OR_1340455_cmyk_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01933715_H5647_KG39EAX2OR_1340433_PGA6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01933716_H5648_KG39EAX2OR_1340434_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01933713_H5645_KG39EAX2OR_1340431_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01933717_H5649_KG39EAX2OR_1340435_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01933714_H5646_KG39EAX2OR_1340432_PGA4_def.png</picture>
+				<barcode>4242003805503</barcode>
+				<vendor>Siemens</vendor>
+				<name>Отдельност.холод.-мороз.комбинация KG39EAX2OR</name>
+				<vendorCode>KG39EAX2OR</vendorCode>
+				<model>KG39EAX2OR</model>
+				<description>Зона свежести hyperFresh дольше сохраняет продукты свежими, поддерживая оптимальный уровень влажности.</description>
+			</offer>
+			<offer id="KG39FHI3OR" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Россия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/ohlazhdenie/holodilniki/otdelnostojashhie-holodilniki-s-nizhnej-morozilnoj-kameroj/KG39FHI3OR</url>
+				<price>91990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>0</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874198_i6281_1293954_KG39FHI3OR_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874196_i6280_1293951_KG39FHI3OR_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874188_i6276_1293941_KG39FHI3OR_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874189_i6277_1293942_KG39FHI3OR_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874191_i6278_1293945_KG39FHI3OR_PGA6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874193_i6279_1293948_KG39FHI3OR_PGA4_def.png</picture>
+				<barcode>4242003781814</barcode>
+				<vendor>Siemens</vendor>
+				<name>Отдельност. двухкамерн. холодильник KG39FHI3OR</name>
+				<vendorCode>KG39FHI3OR</vendorCode>
+				<model>KG39FHI3OR</model>
+				<description>Отдельност. двухкамерн. холодильник KG39FHI3OR</description>
+			</offer>
+			<offer id="KG39FHW3OR" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Россия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/ohlazhdenie/holodilniki/otdelnostojashhie-holodilniki-s-nizhnej-morozilnoj-kameroj/KG39FHW3OR</url>
+				<price>91990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>0</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874199_i6282_1293955_KG39FHW3OR_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874200_i6283_1293957_KG39FHW3OR_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874204_i6285_1293962_KG39FHW3OR_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874210_i6288_1293969_KG39FHW3OR_PGA4_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874202_i6284_1293960_KG39FHW3OR_PGA6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874208_i6287_1293966_KG39FHW3OR_PGA3_def.png</picture>
+				<barcode>4242003781807</barcode>
+				<vendor>Siemens</vendor>
+				<name>Отдельност. двухкамерн. холодильник KG39FHW3OR</name>
+				<vendorCode>KG39FHW3OR</vendorCode>
+				<model>KG39FHW3OR</model>
+				<description>Отдельност. двухкамерн. холодильник KG39FHW3OR</description>
+			</offer>
+			<offer id="KG39FPX3OR" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Россия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/ohlazhdenie/holodilniki/otdelnostojashhie-holodilniki-s-nizhnej-morozilnoj-kameroj/KG39FPX3OR</url>
+				<price>91990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>0</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874036_i6273_1293791_KG39FPX3OR_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874034_i6272_1293789_KG39FPX3OR_PGA6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874037_i6274_1293792_KG39FPX3OR_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874033_i6271_1293788_KG39FPX3OR_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874038_i6275_1293793_KG39FPX3OR_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874031_i6270_1293786_KG39FPX3OR_PGA4_def.png</picture>
+				<barcode>4242003781791</barcode>
+				<vendor>Siemens</vendor>
+				<name>Отдельност. двухкамерн. холодильник KG39FPX3OR</name>
+				<vendorCode>KG39FPX3OR</vendorCode>
+				<model>KG39FPX3OR</model>
+				<description>Отдельност. двухкамерн. холодильник KG39FPX3OR</description>
+			</offer>
+			<offer id="KG39NAI31R" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Россия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/ohlazhdenie/holodilniki/otdelnostojashhie-holodilniki-s-nizhnej-morozilnoj-kameroj/KG39NAI31R</url>
+				<price>61990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>0</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874045_H7252_KG39NAI3AR_1293802_cmyk_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874044_H7251_KG39NAI3AR_1293800_PGA6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874042_H7248_KG39NAI3AR_1293798_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874047_H7250_KG39NAI3AR_1293804_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874039_H7249_KG39NAI3AR_1293794_PGA4_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874041_H7247_KG39NAI3AR_1293797_PGA2_def.png</picture>
+				<barcode>4242003850572</barcode>
+				<vendor>Siemens</vendor>
+				<name>Отдельност. двухкамерн. холодильник KG39NAI31R</name>
+				<vendorCode>KG39NAI31R</vendorCode>
+				<model>KG39NAI31R</model>
+				<description>Холодильно-морозильная комбинация noFrost с зоной свежести hyperFresh plus сохраняет свежесть продуктов до 2 раз дольше.</description>
+			</offer>
+			<offer id="KG39NAW31R" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Россия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/ohlazhdenie/holodilniki/otdelnostojashhie-holodilniki-s-nizhnej-morozilnoj-kameroj/KG39NAW31R</url>
+				<price>57990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>0</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01899595_H7264_KG39NAW3AR_1311598_cmyk_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01899594_H7261_KG39NAW3AR_1311597_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01899598_H7263_KG39NAW3AR_1311601_PGA6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01899593_H7262_KG39NAW3AR_1311596_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01899597_H7259_KG39NAW3AR_1311600_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01899596_H7260_KG39NAW3AR_1311599_PGA2_def.png</picture>
+				<barcode>4242003850565</barcode>
+				<vendor>Siemens</vendor>
+				<name>Отдельност. двухкамерн. холодильник KG39NAW31R</name>
+				<vendorCode>KG39NAW31R</vendorCode>
+				<model>KG39NAW31R</model>
+				<description>Холодильно-морозильная комбинация noFrost с зоной свежести hyperFresh plus сохраняет свежесть продуктов до 2 раз дольше.</description>
+			</offer>
+			<offer id="KG39NAX31R" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Россия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/ohlazhdenie/holodilniki/otdelnostojashhie-holodilniki-s-nizhnej-morozilnoj-kameroj/KG39NAX31R</url>
+				<price>62990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>0</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874048_H7258_KG39NAX3AR_1293807_cmyk_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874050_H7257_KG39NAX3AR_1293808_PGA6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874052_H7256_KG39NAX3AR_1293810_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874054_H7255_KG39NAX3AR_1293813_PGA4_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874055_H7253_KG39NAX3AR_1293814_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01874051_H7254_KG39NAX3AR_1293809_PGA3_def.png</picture>
+				<barcode>4242003850589</barcode>
+				<vendor>Siemens</vendor>
+				<name>Отдельност. двухкамерн. холодильник KG39NAX31R</name>
+				<vendorCode>KG39NAX31R</vendorCode>
+				<model>KG39NAX31R</model>
+				<description>Холодильно-морозильная комбинация noFrost с зоной свежести hyperFresh plus сохраняет свежесть продуктов до 2 раз дольше.</description>
+			</offer>
+			<offer id="WM16W6H1OE" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/uhod-za-belem/stiralnye-mashiny/stiralnaja-mashina-s-frontalnoj-zagruzkoj/WM16W6H1OE</url>
+				<price>108990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>6</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02367777_WM16W6H1OE_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02367778_WM16W6H1OE_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02367816_WM16W6H1OE_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02367780_WM16W6H1OE_PGA3_def.png</picture>
+				<barcode>4242003827437</barcode>
+				<vendor>Siemens</vendor>
+				<name>Полн. автомат. стиральная машина WM16W6H1OE</name>
+				<vendorCode>WM16W6H1OE</vendorCode>
+				<model>WM16W6H1OE</model>
+				<description>Стиральная машина премиум класса в новом дизайне с сенсорной технологией iSensoric и системой автоматического дозирования моющих средств iDos</description>
+			</offer>
+			<offer id="WM14W740OE" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/uhod-za-belem/stiralnye-mashiny/stiralnaja-mashina-s-frontalnoj-zagruzkoj/WM14W740OE</url>
+				<price>108990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>6</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01018737_WM14W740OE_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01987680_Antivib_SI_F24_T24_D21_white_def.png</picture>
+				<barcode>4242003735015</barcode>
+				<vendor>Siemens</vendor>
+				<name>Полн. автомат. стиральная машина WM14W740OE</name>
+				<vendorCode>WM14W740OE</vendorCode>
+				<model>WM14W740OE</model>
+				<description>Стиральная машина с технологией sensoFresh и мотором iQdrive: свежесть одежды и всегда безукоризненный внешний вид.</description>
+			</offer>
+			<offer id="WM16Y892OE" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Германия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/uhod-za-belem/stiralnye-mashiny/stiralnaja-mashina-s-frontalnoj-zagruzkoj/WM16Y892OE</url>
+				<price>134990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>6</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00891922_WM16Y892OE_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00797020_WM14Y590GB_Fenster_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01954301_iDos_WM6YH890_iQ800_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00917491_WM16Y892OE_A6_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02065980_Drum_F13_F14_FLCN_white_grey_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01987680_Antivib_SI_F24_T24_D21_white_def.png</picture>
+				<barcode>4242003705704</barcode>
+				<vendor>Siemens</vendor>
+				<name>Полн. автомат. стиральная машина WM16Y892OE</name>
+				<vendorCode>WM16Y892OE</vendorCode>
+				<model>WM16Y892OE</model>
+				<description>Стиральная машина с системой дозирования i-Dos и мотором iQdrive: идеально чистое белье без разводов от моющего средства в течение многих лет.</description>
+			</offer>
+			<offer id="WK14D541OE" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Италия</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/uhod-za-belem/stiralno-sushilnye-mashiny/WK14D541OE</url>
+				<price>131990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>6</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA01004190_WK14D541OE_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00594384_A3_WM14B220_def.png</picture>
+				<barcode>4242003722671</barcode>
+				<vendor>Siemens</vendor>
+				<name>Стир.-суш. автомат WK14D541OE</name>
+				<vendorCode>WK14D541OE</vendorCode>
+				<model>WK14D541OE</model>
+				<description>Встраиваемая стирально-сушильная машина iQ 500 с функцией waterPerfect для экономии воды при стирке.</description>
+			</offer>
+			<offer id="SN615X00DR" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Турция</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/myte-posudy/vstraivaemye-posudomoechnye-mashiny/polnovstraivaemye-posudomoechnye-mashiny/SN615X00DR</url>
+				<price>35990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>7</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02555455_i5831_1920628_SN615X00DR_korr_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02555420_i5864_1920592_SN615X00DR_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00830320_F0738_SN65E001GB_466472_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02555421_i5851_1920594_SN615X00DR_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00827005_F0849_SN65E001GB_463840_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00665196_RotesInfoLight_SN64M080EU_SE_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02493340_i4095_1865390_SN615X00DT_PGA2_def.png</picture>
+				<barcode>4242003836866</barcode>
+				<vendor>Siemens</vendor>
+				<name>Полн. интегрирован. посудом. машина SN615X00DR</name>
+				<vendorCode>SN615X00DR</vendorCode>
+				<model>SN615X00DR</model>
+				<description>Полноразмерная встраиваемая посудомоечная машина сбережет драгоценное время. Инверторный мотор и мощный насос обеспечат превосходный результат мытья.</description>
+			</offer>
+			<offer id="SN615X00FR" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Турция</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/myte-posudy/vstraivaemye-posudomoechnye-mashiny/polnovstraivaemye-posudomoechnye-mashiny/SN615X00FR</url>
+				<price>43990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>7</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02555457_i5832_1920629_SN615X00FR_CMYK_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00745199_A5_LR14A_AP14SE_SN45L571EU_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02555419_i5850_1920591_SN615X00FR_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02554641_i5854_1920023_S511F50X1R_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02426048_MCSA00588366_A04_SN64M080EU_Korb_SZ73601_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02555422_i5865_1920600_SN615X00FR_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00665196_RotesInfoLight_SN64M080EU_SE_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00830362_F0743_SN25D273EU_466522_def.png</picture>
+				<barcode>4242003836859</barcode>
+				<vendor>Siemens</vendor>
+				<name>Встраиваемая посудомоечная машина SN615X00FR</name>
+				<vendorCode>SN615X00FR</vendorCode>
+				<model>SN615X00FR</model>
+				<description>Полноразмерная встраиваемая посудомоечная машина сбережет драгоценное время. Инверторный мотор и мощный насос обеспечат превосходный результат мытья.</description>
+			</offer>
+			<offer id="SN636X00MR" available="true" bid="1" fee="0">
+				<sales_notes/>
+				<country_of_origin>Турция</country_of_origin>
+				<url>https://www.siemens-home.bsh-group.ru/shop/myte-posudy/vstraivaemye-posudomoechnye-mashiny/polnovstraivaemye-posudomoechnye-mashiny/SN636X00MR</url>
+				<price>49990</price>
+				<currencyId>RUR</currencyId>
+				<delivery>true</delivery>
+				<manufacturer_warranty>true</manufacturer_warranty>
+				<cpa>0</cpa>
+				<store>false</store>
+				<pickup>false</pickup>
+				<categoryId>7</categoryId>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02555459_i5833_1920630_SN636X00MR_CMYK_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02059228_H4566_SN836X00KE_1450489_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02555424_i5852_1920605_SN636X00MR_PGA1_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02398001_MCSA01781748_G7161_SN736X03ME_1213028_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02555423_i5866_1920604_SN636X00MR_PGA3_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02131882_H6880_SN236W10MM_1526986_PGA5_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA02697299_i8212_2043723_SN636X00MR_PGA2_def.png</picture>
+				<picture>https://media3.bsh-group.com/Product_Shots/3000x3000/MCSA00665196_RotesInfoLight_SN64M080EU_SE_def.png</picture>
+				<barcode>4242003836842</barcode>
+				<vendor>Siemens</vendor>
+				<name>Полн. интегрирован. посудом. машина SN636X00MR</name>
+				<vendorCode>SN636X00MR</vendorCode>
+				<model>SN636X00MR</model>
+				<description>Полноразмерная встраиваемая посудомоечная машина с пятью уровнями распределения воды обеспечивает превосходный результат мытья.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
