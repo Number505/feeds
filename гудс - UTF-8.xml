@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2019-05-30 15:22">
+<shop>
+<name>ПК_ПрофКлей</name>
+<company>ПК_ПрофКлей inc.</company>
+<url>http://www.профКлей.рф/</url>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<categories>
+<category id="1">Клеевые стержни</category>
+<category id="2">Клеевые пистолеты</category>
+</categories>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<offers>
+<offer id="8322" available="true">
+<url>http://www.ПК_ПрофКлей.ru/.html</url>
+<name>Клеевые стержни-8322</name>
+<price>300</price>
+<categoryId>8322</categoryId>
+<picture>
+http://www.профклей.рф/kleevye-sterzhni-v-upakovke.ru/8322.jpg</picture>
+<vat>20</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="50"/>
+</outlets>
+<vendor>ПК_ПрофКлей</vendor>
+<vendorCode>TW.11.45.3T</vendorCode>
+<model>ПрофКлей-8322</model>
+<description>Клеевые стержни-8322 прозрачные</description>
+<param name="Weight">450</param> <param>
+name="Width">60</param>
+<param name="Length">33</param>
+<param name="Height">3,5</param>
+<param name="Бренд">ПК_ПрофКлей</param>
+<param name="Материал">ЭВА</param>
+<param name="Страна изготовитель">Тайвань</param>
+<barcode>4640018550225</barcode>
+</offer>
+<offer id="8319" available="true">
+<url>http://www.ПК_ПрофКлей.ru/.html</url>
+<name>Клеевые стержни-8319</name>
+<price>540</price>
+<categoryId>8319</categoryId>
+<picture>
+http://www.профклей.рф/kleevye-sterzhni-v-upakovke.ru/8319.jpg</picture>
+<vat>20</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="50"/>
+</outlets>
+<vendor>ПК_ПрофКлей</vendor>
+<vendorCode>TW.11.101.3T</vendorCode>
+<model>ПрофКлей-8319</model>
+<description>Клеевые стержни-8319 прозрачные</description>
+<param name="Weight">1000</param> <param>
+name="Width">15</param>
+<param name="Length">35</param>
+<param name="Height">4</param>
+<param name="Бренд">ПК_ПрофКлей</param>
+<param name="Материал">ЭВА</param>
+<param name="Страна изготовитель">Тайвань</param>
+<barcode>4640018550065</barcode>
+</offer>
+<offer id="8372" available="true">
+<url>http://www.ПК_ПрофКлей.ru/.html</url>
+<name>Клеевые стержни-8372</name>
+<price>540</price>
+<categoryId>8372</categoryId>
+<picture>
+http://www.профклей.рф/kleevye-sterzhni-v-upakovke.ru/8372.jpg</picture>
+<vat>2</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="50"/>
+</outlets>
+<vendor>ПК_ПрофКлей</vendor>
+<vendorCode>TW.07.100.3T</vendorCode>
+<model>ПрофКлей-8372</model>
+<description>Клеевые стержни-8372 прозрачные</description>
+<param name="Weight">1000</param> <param>
+name="Width">15</param>
+<param name="Length">35</param>
+<param name="Height">4</param>
+<param name="Бренд">ПК_ПрофКлей</param>
+<param name="Материал">ЭВА</param>
+<param name="Страна изготовитель">Тайвань</param>
+<barcode>4640018550072</barcode>
+</offer>
+<offer id="8324" available="true">
+<url>http://www.ПК_ПрофКлей.ru/.html</url>
+<name>Клеевые стержни-8324</name>
+<price>540</price>
+<categoryId>8324</categoryId>
+<picture>
+http://www.профклей.рф/kleevye-sterzhni-v-upakovke.ru/8324.jpg</picture>
+<vat>2</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="50"/>
+</outlets>
+<vendor>ПК_ПрофКлей</vendor>
+<vendorCode>TW.07.100.3T</vendorCode>
+<model>ПрофКлей-8324</model>
+<description>Клеевые стержни-8324 прозрачные</description>
+<param name="Weight">1000</param> <param>
+name="Width">15</param>
+<param name="Length">35</param>
+<param name="Height">4</param>
+<param name="Бренд">ПК_ПрофКлей</param>
+<param name="Материал">ЭВА</param>
+<param name="Страна изготовитель">Тайвань</param>
+<barcode>4640018550072</barcode>
+</offer>
+<offer id="8815" available="true">
+<url>http://www.ПК_ПрофКлей.ru/.html</url>
+<name>Клеевой пистолет-8815</name>
+<price>1100</price>
+<categoryId>8815</categoryId>
+<picture>
+http://www.профклей.рф/kleevye-sterzhni-v-upakovke.ru/8815.jpg</picture>
+<vat>2</vat>
+<shipment-options>
+<option days="1" order-before="15"/>
+</shipment-options>
+<outlets>
+<outlet id="1" instock="50"/>
+</outlets>
+<vendor>ПК_ПрофКлей</vendor>
+<vendorCode>TW.15.11.P</vendorCode>
+<model>ПрофКлей-8815</model>
+<description>Клеевой пистолет-8815</description>
+<param name="Weight">450</param> <param>
+name="Width">21</param>
+<param name="Length">36</param>
+<param name="Height">7</param>
+<param name="Бренд">ПК_ПрофКлей</param>
+<param name="Материал">ЭВА</param>
+<param name="Страна изготовитель">Тайвань</param>
+<barcode>4640018550072</barcode>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
