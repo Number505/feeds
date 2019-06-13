@@ -15,12 +15,11 @@
 		</shipment-options>
 		<offers>
 			<offer id="16792" available="true">
-				 <url>​<![CDATA[ https://www.ginzzu.ru/?category=315&controller=product&id=1144&lang=ru ]]></url>
+				 <url><![CDATA[ https://www.ginzzu.ru/?category=315&controller=product&id=1144&lang=ru ]]></url>
 				<name>Телефон MB505 (красный) 1*SIM,FM,SOS,фонарик</name>
 				<price>890</price>
 				<categoryId>315</categoryId>
-				<picture>​<![CDATA[ https://www.ginzzu.ru/ru/picture/b_mb501_r_01png.jpg ]]></picture>
-				​
+				<picture><![CDATA[ https://www.ginzzu.ru/ru/picture/b_mb501_r_01png.jpg ]]></picture>
 				<vat>1</vat>
 				<shipment-options>
 					<option days="2" order-before="17.00"/>
