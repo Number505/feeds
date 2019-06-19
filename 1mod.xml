@@ -5,10 +5,10 @@
     <company>ООО "СБВ"</company>
     <url> https://smartbabywatch.ru/ </url>
     <currencies>
-      <currency id="RUR" rate="1"/>
+      <currency id="RUB" rate="1"/>
     </currencies>
     <categories>
-	  <category id="5674">детские часы</category>
+	<category id="5674">детские часы</category>
     </categories>
     <shipment-options>
       <option days="1" order-before="19"/>
@@ -18,7 +18,7 @@
       <url>https://smartbabywatch.ru/smart-baby-watch-sbw-2-chernyie.html</url>
       <name>Детские часы-телефон SBW_2 (черные)</name>
       <price>4490</price>
-	  <currencyId>RUR</currencyId>
+	  <currencyId>RUB</currencyId>
       <categoryld>5674</categoryld>
       <picture>https://smartbabywatch.ru/assets/sbw_tp/img/products/233/sbw2-black-02.jpg.webp</picture>
       <picture>https://smartbabywatch.ru/assets/sbw_tp/img/products/233/sbw2-black-01.png.webp</picture>
