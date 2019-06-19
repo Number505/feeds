@@ -8,7 +8,7 @@
       <currency id="RUR" rate="1"/>
     </currencies>
     <categories>
-	  <category id="5674">детские часы</category> 
+	  <category id="5674">детские часы</category>
     </categories>
     <shipment-options>
       <option days="1" order-before="19"/>
