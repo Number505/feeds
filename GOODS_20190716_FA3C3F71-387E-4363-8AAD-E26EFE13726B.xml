@@ -1,4 +1,4 @@
-﻿<?xml version ="1.0" encoding ="UTF-8"?>
+<?xml version ="1.0" encoding ="UTF-8"?>
 <yml_catalog date="2019-07-16 13:43">
 <shop>
 <name>Жемчужина</name>
@@ -18,63 +18,73 @@
 <offer id="2320bl" available="true">
 <name>Портмоне муж. 2320bl</name>
 <price>1290</price>
-<categoryid>01</categoryid>
+<categoryId>01</categoryId>
 <picture></picture>
 <barcode></barcode>
+</offer>
 <offer id="2339bl" available="true">
 <name>Портмоне муж. 2339bl</name>
 <price>1290</price>
-<categoryid>01</categoryid>
+<categoryId>01</categoryId>
 <picture></picture>
 <barcode></barcode>
+</offer>
 <offer id="10221bl" available="true">
 <name>Портмоне муж.10221bl</name>
 <price>2590</price>
-<categoryid>01</categoryid>
+<categoryId>01</categoryId>
 <picture></picture>
 <barcode></barcode>
+</offer>
 <offer id="2630N.Red" available="true">
 <name>Портмоне жен. 2630 N.Red</name>
 <price>1390</price>
-<categoryid>02</categoryid>
+<categoryId>02</categoryId>
 <picture></picture>
 <barcode></barcode>
+</offer>
 <offer id="10265amaranto" available="true">
 <name>Портмоне жен.10265amaranto</name>
 <price>1760</price>
-<categoryid>02</categoryid>
+<categoryId>02</categoryId>
 <picture></picture>
 <barcode></barcode>
+</offer>
 <offer id="5414mango" available="true">
 <name>Обложка на пасп.5414mango</name>
 <price>790</price>
 <categoryid>04</categoryid>
 <picture></picture>
 <barcode></barcode>
+</offer>
 <offer id="5632br" available="true">
 <name>Бумажник водит.5632br</name>
 <price>1190</price>
 <categoryid>03</categoryid>
 <picture></picture>
 <barcode></barcode>
+</offer>
 <offer id="5515yellow" available="true">
 <name>Футляр для ключей 5515yellow</name>
 <price>630</price>
 <categoryid>06</categoryid>
 <picture></picture>
 <barcode></barcode>
+</offer>
 <offer id="5450oran" available="true">
 <name>Визитница 5450oran</name>
 <price>690</price>
 <categoryid>05</categoryid>
 <picture></picture>
 <barcode></barcode>
+</offer>
 <offer id="3374CBL7.5" available="true">
 <name>Перчатки жен.3374CBL7.5</name>
 <price>1900</price>
 <categoryid>08</categoryid>
 <picture></picture>
 <barcode></barcode>
+</offer>
 <offer id="704СBL9.0" available="true">
 <name>Перчатки муж.704СBL9.0</name>
 <price>1990</price>
