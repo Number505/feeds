@@ -37,16 +37,12 @@
 			</shipment-options>
 			<offers>
 			<offer id="16976" available="true">
-					<url>​<![CDATA[https://www.ginzzu.ru/?category=220&controller=product&id=1364&lang=ru]]></url>
+					<url><![CDATA[https://www.ginzzu.ru/?category=220&controller=product&id=1364&lang=ru]]></url>
 					<name>Пылесос VS117 вертикальный черно/синий</name>
 					<price>2350</price>
 					<categoryId>220</categoryId>
-					<picture>​
-						<![CDATA[
-						  http://www.ginzzu.ru/ru/picture/b_VS_117_BLUE_01.jpg 
-						]]>
+					<picture><![CDATA[http://www.ginzzu.ru/ru/picture/b_VS_117_BLUE_01.jpg]]>
 					</picture>
-					​
 					<vat>1</vat>
 					<shipment-options>
 						<option days="2" order-before="17.00"/>
