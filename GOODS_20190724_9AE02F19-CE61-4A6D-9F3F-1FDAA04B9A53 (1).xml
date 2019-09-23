@@ -1,0 +1,97 @@
+﻿<?xml version ="1.0" encoding ="UTF-8"?>
+<yml_catalog date="2019-07-24 13:05">
+<shop>
+<name>Жемчужина</name>
+<company>Жемчужина ООО</company>
+<url></url>
+<categories>
+<category id="03">Бумажник водит.</category>
+<category id="05">Визитница</category>
+<category id="04">Обложка на пасп.</category>
+<category id="08">Перчатки жен.</category>
+<category id="07">Перчатки муж.</category>
+<category id="02">Портмоне жен.</category>
+<category id="01">Портмоне муж.</category>
+<category id="06">Футляр для ключей</category>
+</categories>
+<offers>
+<offer id="2320bl" available="true">
+<name>Портмоне муж. 2320bl</name>
+<price>1290</price>
+<categoryld>01</categoryld>
+<picture></picture>
+<barcode></barcode>
+</offer>
+<offer id="2339bl" available="true">
+<name>Портмоне муж. 2339bl</name>
+<price>1290</price>
+<categoryld>01</categoryld>
+<picture></picture>
+<barcode></barcode>
+</offer>
+<offer id="10221bl" available="true">
+<name>Портмоне муж.10221bl</name>
+<price>2590</price>
+<categoryld>01</categoryld>
+<picture></picture>
+<barcode></barcode>
+</offer>
+<offer id="2630N.Red" available="true">
+<name>Портмоне жен. 2630 N.Red</name>
+<price>1390</price>
+<categoryld>02</categoryld>
+<picture></picture>
+<barcode></barcode>
+</offer>
+<offer id="10265amaranto" available="true">
+<name>Портмоне жен.10265amaranto</name>
+<price>1760</price>
+<categoryld>02</categoryld>
+<picture></picture>
+<barcode></barcode>
+</offer>
+<offer id="5414mango" available="true">
+<name>Обложка на пасп.5414mango</name>
+<price>790</price>
+<categoryld>04</categoryld>
+<picture></picture>
+<barcode></barcode>
+</offer>
+<offer id="5632br" available="true">
+<name>Бумажник водит.5632br</name>
+<price>1190</price>
+<categoryld>03</categoryld>
+<picture></picture>
+<barcode></barcode>
+</offer>
+<offer id="5515yellow" available="true">
+<name>Футляр для ключей 5515yellow</name>
+<price>630</price>
+<categoryld>06</categoryld>
+<picture></picture>
+<barcode></barcode>
+</offer>
+<offer id="5450oran" available="true">
+<name>Визитница 5450oran</name>
+<price>690</price>
+<categoryld>05</categoryld>
+<picture></picture>
+<barcode></barcode>
+</offer>
+<offer id="3374CBL7.5" available="true">
+<name>Перчатки жен.3374CBL7.5</name>
+<price>1900</price>
+<categoryld>08</categoryld>
+<picture></picture>
+<barcode></barcode>
+</offer>
+<offer id="704СBL9.0" available="true">
+<name>Перчатки муж.704СBL9.0</name>
+<price>1990</price>
+<categoryld>07</categoryld>
+<picture></picture>
+<barcode></barcode>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
