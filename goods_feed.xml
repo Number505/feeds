@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2019-10-05 14:58">
+<shop>
+<name>Z-Store</name>
+<company>Z-Store</company>
+<url>https://z-store.ru</url>
+<currencies>
+<currency id="RUB" rate="1" />
+</currencies>
+<categories>
+<category id="3672">Колонки</category>
+<category id="3670">Наушники</category>
+<category id="3671">Портативные колонки</category>
+<category id="3676">Рюкзаки</category>
+</categories>
+<offers>	
+<offer id="723844" available="true">
+<url>https://z-store.ru/provodnye-naushniki-musicdealer-xs-anthracite/</url>
+<price>1590</price>
+<currencyId>RUB</currencyId>
+<categoryId>3670</categoryId>
+<picture>https://z-store.ru/upload/iblock/1a9/1a932281b9cc462acde4b9c7f7822d5e.jpg</picture>
+<name>Проводные наушники MusicDealer XS </name>
+<description>Металлический корпус звуковых камер с выверенным акустическим профилем по цене пластика. Сбалансированный звук высокого разрешения и пассивное шумоподавление. Четырехжильный медный кабель в виниловой изоляции, который не путается в кармане.</description>
+<vendor>Z</vendor> 
+<param name="Цвет">Черный</param>
+<barcode>4631143654445</barcode>
+</offer>
+<offer id="723850" available="true">
+<url>https://z-store.ru/provodnye-naushniki-musicdealer-xl/</url>
+<price>29990</price>
+<currencyId>RUB</currencyId>
+<categoryId>3670</categoryId>
+<picture>https://z-store.ru/upload/iblock/930/93063770880c21d184ea5e6c861288a0.jpg</picture>
+<name>Проводные наушники MusicDealer XL</name>
+<description>Классический форм-фактор от саунд-разработчиков компании Kennerton с экспертным участием звукоинженеров Gazgolder. Каждая пара собрана вручную и является единственной в своем роде.</description>
+<vendor>Z</vendor> 
+<param name="Цвет">Черный</param>
+<barcode>4631143654575</barcode>
+</offer>
+<offer id="723863" available="true">
+<url>https://z-store.ru/bluetooth-kolonka-musicdealer-rare/</url>
+<price>1990</price>
+<currencyId>RUB</currencyId>
+<categoryId>3672</categoryId>
+<picture>https://z-store.ru/upload/iblock/9ed/9ed71870b2a467f82530800f9c2e1088.jpg</picture>
+<name>Bluetooth-колонка MusicDealer Rare</name>
+<description>Миниатюрная колонка, обеспечивающая высокий уровень воспроизведения без искажений. Спутник, которого легко взять с собой.</description>
+<vendor>Z</vendor> 
+<param name="Цвет">Dark Grey</param>
+<barcode>4631143654599</barcode>
+</offer>
+<offer id="723912" available="true">
+<url>https://z-store.ru/bluetooth-kolonka-musicdealer-medium-rare/</url>
+<price>4990</price>
+<currencyId>RUB</currencyId>
+<categoryId>3672</categoryId>
+<picture>https://z-store.ru/upload/iblock/afd/afda274e961df574ea7c46ce4837550e.jpg</picture>
+<name>Bluetooth-колонка MusicDealer Medium Rare</name>
+<description>Портативная Bluetooth-колонка с двумя режимами — для дома и улицы. Незаменима на шумной вечеринке!</description>
+<vendor>Z</vendor> 
+<param name="Цвет">Dark Grey</param>
+<barcode>4631143654629</barcode>
+</offer>
+<offer id="723918" available="true">
+<url>https://z-store.ru/provodnye-naushniki-musicdealer-xxl/</url>
+<price>49990</price>
+<currencyId>RUB</currencyId>
+<categoryId>3670</categoryId>
+<picture>https://z-store.ru/upload/iblock/3c2/3c24397af9e0c99e214d07fbd9c0e1a7.jpg</picture>
+<name>Проводные наушники MusicDealer XXL Limited Edition</name>
+<description>Разработаны на основе прототипа компании Kennerton, признанного лучшей моделью 2016 и 2017 года в своем ценовом классе по версии профессиональной прессы Великобритании и Австралии.</description>
+<vendor>Z</vendor> 
+<param name="Цвет">Черный</param>
+<barcode>4631143654582</barcode>
+</offer>
+<offer id="723966" available="true">
+<url>https://z-store.ru/bluetooth-naushniki-musicdealer-xs-bt-silver/</url>
+<price>2290</price>
+<currencyId>RUB</currencyId>
+<categoryId>3670</categoryId>
+<picture>https://z-store.ru/upload/iblock/133/133fe7962e78d0838d7e374369e34237.JPG</picture>
+<name>Bluetooth-наушники MusicDealer XS BT </name>
+<description>Устойчивое соединение Bluetooth 5.0 от Qualcomm. 14 часов разговоров и 8 часов воспроизведения музыки.</description>
+<vendor>Z</vendor> 
+<param name="Цвет">Белый</param>
+<barcode>4631143654476</barcode>
+</offer>
+<offer id="724026" available="true">
+<url>https://z-store.ru/musicdealer-s-bluetooth-silver/</url>
+<price>4990</price>
+<currencyId>RUB</currencyId>
+<categoryId>3670</categoryId>
+<picture>https://z-store.ru/upload/iblock/969/9694c688dc0cd8f4ff71c9ef7b7699f8.JPG</picture>
+<name>Bluetooth-наушники MusicDealer S BT</name>
+<description>Безупречный звук и устойчивое соединение благодаря чипу Bluetooth 5.0 c aptX. Съемные звуковые камеры с переменным сечением и 10 мм динамиками, передающие подчеркнутую линию баса и оттенки студийных миксов.</description>
+<vendor>Z</vendor> 
+<param name="Цвет">Белый</param>
+<barcode>4631143654551</barcode>
+</offer>
+<offer id="724040" available="true">
+<url>https://z-store.ru/provodnye-naushniki-musicdealer-xs-silver/</url>
+<price>1590</price>
+<currencyId>RUB</currencyId>
+<categoryId>3670</categoryId>
+<picture>https://z-store.ru/upload/iblock/c73/c7309b44c11a799d07ff7a29afbc10fd.jpg</picture>
+<name>Проводные наушники MusicDealer XS </name>
+<description>Металлический корпус звуковых камер с выверенным акустическим профилем по цене пластика. Сбалансированный звук высокого разрешения и пассивное шумоподавление. Четырехжильный медный кабель в виниловой изоляции, который не путается в кармане.</description>
+<vendor>Z</vendor> 
+<param name="Цвет">Белый</param>
+<barcode>4631143654452</barcode>
+</offer>
+<offer id="724042" available="true">
+<url>https://z-store.ru/musicdealer-s-bluetooth-anthracite/</url>
+<price>4990</price>
+<currencyId>RUB</currencyId>
+<categoryId>3670</categoryId>
+<picture>https://z-store.ru/upload/iblock/c82/c820d2d23ab1aad170526759e4cdcdd7.JPG</picture>
+<name>Bluetooth-наушники MusicDealer S BT</name>
+<description>Безупречный звук и устойчивое соединение благодаря чипу Bluetooth 5.0 c aptX. Съемные звуковые камеры с переменным сечением и 10 мм динамиками, передающие подчеркнутую линию баса и оттенки студийных миксов.</description>
+<vendor>Z</vendor> 
+<param name="Цвет">Черный</param>
+<barcode>4631143654544</barcode>
+</offer>
+<offer id="724043" available="false">
+<url>https://z-store.ru/bluetooth-naushniki-musicdealer-xs-bt-anthracite/</url>
+<price>2290</price>
+<currencyId>RUB</currencyId>
+<categoryId>3670</categoryId>
+<picture>https://z-store.ru/upload/iblock/2e2/2e2561c8168f3c9aedd264fbf3e1ea8b.JPG</picture>
+<name>Bluetooth-наушники MusicDealer XS BT </name>
+<description>Устойчивое соединение Bluetooth 5.0 от Qualcomm. 14 часов разговоров и 8 часов воспроизведения музыки.</description>
+<vendor>Z</vendor> 
+<param name="Цвет">Черный</param>
+<barcode>4631143654469</barcode>
+</offer>
+<offer id="724232" available="true">
+<url>https://z-store.ru/ryukzak-musicdealer-travel-set-black-yellow/</url>
+<price>39990</price>
+<currencyId>RUB</currencyId>
+<categoryId>3676</categoryId>
+<picture>https://z-store.ru/upload/iblock/48b/48b77b42374335c8d0449ec32475bbb1.jpg</picture>
+<name>Рюкзак Musicdealer Travel Set Black/Yellow</name>
+<description>Кожаный рюкзак ручной работы создан специально для тех, кто привык носить с собой много вещей для работы и тех, кто часто и много путешествует.</description>
+<vendor>Z</vendor> 
+<param name="Цвет">Черный/Желтый</param>
+<barcode>2870000000830</barcode>
+</offer>
+<offer id="724235" available="true">
+<url>https://z-store.ru/ryukzak-musicdealer-travel-set-black/</url>
+<price>39990</price>
+<currencyId>RUB</currencyId>
+<categoryId>3676</categoryId>
+<picture>https://z-store.ru/upload/iblock/1c4/1c48ada242c57afef2791a47a34b9919.jpg</picture>
+<name>Рюкзак Musicdealer Travel Set Black</name>
+<description>Кожаный рюкзак ручной работы создан специально для тех, кто привык носить с собой много вещей для работы и тех, кто часто и много путешествует.</description>
+<vendor>Z</vendor> 
+<param name="Цвет">Черный</param>
+<barcode>2870000000847</barcode>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
