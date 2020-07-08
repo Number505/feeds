@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-07-08 17:20">
+<shop>
+<name>A159</name>
+<company>ИП Царев Андрей Леонидович</company>
+<url>https://www.a159.ru/</url>
+<platform>Joomla</platform>
+<agency></agency>
+<email>info@a159.ru</email>
+<currencies>
+<currency id="RUB" rate="1"/>
+</currencies>
+<categories>
+<category id="36" parentId="19" >Зарядные устройства</category>
+<category id="6" parentId="0" >Снаряжение</category>
+<category id="7" parentId="6" >Очки</category>
+<category id="8" parentId="6" >Шлемы</category>
+<category id="9" parentId="6" >Перчатки</category>
+<category id="10" parentId="6" >Наколенники, налокотники</category>
+<category id="11" parentId="6" >Тактические жилеты</category>
+<category id="12" parentId="6" >Подсумки</category>
+<category id="13" parentId="6" >Кобуры</category>
+<category id="14" parentId="6" >Пояса</category>
+<category id="15" parentId="6" >Маски</category>
+<category id="16" parentId="6" >Оружейные ремни</category>
+<category id="17" parentId="6" >Балаклавы, шарфы</category>
+<category id="18" parentId="6" >Чехлы для оружия</category>
+<category id="19" parentId="0" >Расходные материалы</category>
+<category id="20" parentId="19" >Шары</category>
+<category id="21" parentId="19" >Камуфляжные ленты</category>
+<category id="22" parentId="19" >Спреи, смазки</category>
+<category id="98" parentId="6" >Рации и гарнитуры</category>
+<category id="29" parentId="19" >Лоадеры</category>
+<category id="33" parentId="19" >Аккумуляторы</category>
+<category id="34" parentId="19" >Газ</category>
+<category id="38" parentId="23" >Прицелы и ЛЦУ</category>
+<category id="39" parentId="0" >Прочее</category>
+<category id="41" parentId="6" >Гидраторы и платформы</category>
+<category id="43" parentId="23" >Тактические фонари</category>
+<category id="44" parentId="19" >Переходники и коннекторы</category>
+<category id="47" parentId="0" >Запчасти и тюнинг</category>
+<category id="48" parentId="47" >Цевья, крепления для цевья</category>
+<category id="49" parentId="47" >Внутренние стволики</category>
+<category id="50" parentId="47" >Гирбоксы</category>
+<category id="51" parentId="47" >Пистолетные рукояти</category>
+<category id="52" parentId="47" >Приклады</category>
+<category id="53" parentId="47" >Пружины и направляющие</category>
+<category id="54" parentId="47" >Глушители, пламегасители</category>
+<category id="55" parentId="48" >Накладки на цевья</category>
+<category id="56" parentId="47" >Пины, штифты, антабки</category>
+<category id="57" parentId="47" >Спусковые крючки</category>
+<category id="60" parentId="47" >Шестерни</category>
+<category id="61" parentId="47" >Переключение огня</category>
+<category id="62" parentId="47" >Стопора, пружинки</category>
+<category id="63" parentId="47" >Цилиндры, голова цилиндра</category>
+<category id="64" parentId="47" >Поршни, головы поршней</category>
+<category id="65" parentId="47" >Камеры и резинки Hop-Up</category>
+<category id="66" parentId="47" >Таппеты, нозлы</category>
+<category id="67" parentId="47" >Проводка</category>
+<category id="68" parentId="47" >Шайбы, втулки, подшипники</category>
+<category id="69" parentId="8" >Чехлы на каски</category>
+<category id="70" parentId="8" >Сменные части от касок</category>
+<category id="71" parentId="6" >Шевроны, патчи, нашивки</category>
+<category id="72" parentId="47" >Моторы</category>
+<category id="73" parentId="0" >Одежда</category>
+<category id="74" parentId="73" >Форма, костюмы</category>
+<category id="75" parentId="73" >Куртки</category>
+<category id="76" parentId="73" >Кепки, бейсболки</category>
+<category id="77" parentId="39" >Аксессуары</category>
+<category id="78" parentId="73" >Майки, футболки</category>
+<category id="79" parentId="47" >Планки и кронштейны</category>
+<category id="80" parentId="23" >Гранатометы, минометы</category>
+<category id="81" parentId="47" >Тактические рукояти, сошки</category>
+<category id="82" parentId="73" >Брюки, штаны</category>
+<category id="83" parentId="23" >Дробовики</category>
+<category id="84" parentId="73" >Панамы</category>
+<category id="85" parentId="73" >Боевые рубахи</category>
+<category id="86" parentId="23" >Другие магазины</category>
+<category id="87" parentId="39" >Трафареты для покраски оружия</category>
+<category id="88" parentId="73" >Маскировка</category>
+<category id="89" parentId="47" >Части корпуса</category>
+<category id="90" parentId="47" >Наборы для тюнинга</category>
+<category id="91" parentId="6" >Браслеты из паракорда</category>
+<category id="92" parentId="11" >Бронепанели</category>
+<category id="93" parentId="73" >Шапки</category>
+<category id="95" parentId="73" >Белье</category>
+<category id="96" parentId="6" >Рюкзаки и сумки</category>
+<category id="97" parentId="47" >Запчасти газового оружия</category>
+<category id="99" parentId="11" >КАП, дополнения</category>
+<category id="100" parentId="43" >Аксессуары для фонарей</category>
+<category id="101" parentId="7" >Аксессуары для очков</category>
+<category id="102" parentId="6" >Спальные мешки</category>
+<category id="103" parentId="39" >Flash sale</category>
+<category id="107" parentId="11" >Система AA-AVS</category>
+</categories>
+<offers>
+<offer id="932" available="true">
+<price>400</price>
+<currencyId>RUB</currencyId>
+<categoryId>64</categoryId>
+<picture>https://www.a159.ru/components/com_virtuemart/shop_image/product/_________________5f02e64ba3edb.jpg</picture>
+<pickup>true</pickup>
+<name>Голова поршня с подшипником (SHS) (PT0001)</name>
+<vendor>SHS Airsoft</vendor>
+<description>Высококачественная, алюминиевая голова поршня с подшипником. Совместима с большинством гирбоксов. Уплотнительное кольцо из полимера. Голова тихого типа (silent head), для корректной работы необходима голова цилиндра с углублением в основании, например, как у модели GT0076.  Особенности:    Высокое качество производства;  Материал – алюминий;  Повышенная стойкость к износу и деформациям.    {module Предупреждение запчасти}</description>
+<barcode></barcode>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
