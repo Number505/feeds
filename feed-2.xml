@@ -1,0 +1,2691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2020-08-11 14:46">
+    <shop>
+        <categories>
+            <category id="0100-001021">Прочее</category>
+            <category id="0100-131050">Прочее</category>
+            <category id="0100-248904">Прочее</category>
+            <category id="0100-352824">Прочее</category>
+            <category id="0100-363070">Прочее</category>
+            <category id="0100-100554">Прочее</category>
+            <category id="0100-100558">Прочее</category>
+            <category id="0100-100544">Прочее</category>
+            <category id="0100-352833">Прочее</category>
+            <category id="0100-151912">Прочее</category>
+            <category id="0100-115737">Прочее</category>
+            <category id="0100-001075">Прочее</category>
+            <category id="0100-252767">Прочее</category>
+            <category id="0100-272756">Прочее</category>
+            <category id="0100-007049">Прочее</category>
+            <category id="0100-396638">Прочее</category>
+            <category id="0100-078902">Sim-карты Tele2</category>
+            <category id="0100-084105">Аксессуары</category>
+            <category id="0100-084120">Прочее</category>
+            <category id="0100-001190">Прочее</category>
+            <category id="0100-409241">Прочее</category>
+        </categories>
+        <offers>
+            <offer id="0100-384391" available="true">
+                <name>Накладка DF для Xiaomi Redmi 6 xiCase-32 Силикон Crystal</name>
+                <price>98</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="0"/>
+                </outlets>
+            </offer>
+            <offer id="0100-409081" available="true">
+                <name>Стекло защитное для iPhone XR 3D Mocoll Golden Armor Crystal</name>
+                <price>1299</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-305912" available="true">
+                <name>
+                    Внешний аккумулятор Power Bank Xiaomi Mi Power 2C  20000 mAh Quick Charge 3.0 White
+                </name>
+                <price>2999</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-284952" available="true">
+                <name>
+                    Закаленное стекло DF с цветной рамкой fullscreen для iPhone 7/8 iColor-15 Black
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-414501" available="true">
+                <name>
+                    Защитное стекло DF sColor-72 Samsung Galaxy A70 2019 Full Screen Black
+                </name>
+                <price>198</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-444155" available="true">
+                <name>
+                    Защитное стекло DF sColor-88 fullscreen+fullglue Samsung Galaxy A71 Black
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-363023" available="true">
+                <name>
+                    Защитное стекло 0,2мм Ainy для Apple iPhone X Full Screen Cover 3D White
+                </name>
+                <price>498</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-371677" available="true">
+                <name>Чехол DF силикон супертонкий для Samsung Galaxy J4 2018 sCase-62</name>
+                <price>48</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-435909" available="true">
+                <name>
+                    Защитное стекло DF (xiColor-68) full screen Xiaomi Redmi Note 8 Pro Black
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-127549" available="true">
+                <name>
+                    Дата-кабель Deppa USB - microUSB 2-х сторонние коннекторы 1.2м 72211
+                </name>
+                <price>298</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="0"/>
+                </outlets>
+            </offer>
+            <offer id="0100-310761" available="true">
+                <name>
+                    Чехол универсальный iBox Universal Slide для телефонов 5-6 дюймов Black
+                </name>
+                <price>399</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="4"/>
+                </outlets>
+            </offer>
+            <offer id="0100-444149" available="true">
+                <name>Клип-Кейс DF sCase-86 Samsung Galaxy A01 Crystal</name>
+                <price>460</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-446149" available="true">
+                <name>СЗУ Maverick EA-C40 адаптер 220V 5V/2,1А+1A/2USB Black</name>
+                <price>990</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-441628" available="true">
+                <name>Флип-кейс DF xiFlip-55 Xiaomi Redmi Note 8T Black</name>
+                <price>599</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-406356" available="true">
+                <name>
+                    Закаленное стекло DF с цветной рамкой fullscreen для iPhone XS Max DF iColor-20 Black
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="0"/>
+                </outlets>
+            </offer>
+            <offer id="0100-438967" available="true">
+                <name>
+                    Внешний аккумулятор Red Line J01 4000mAh 1А Micro USB/1USB Pink gold
+                </name>
+                <price>698</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-445390" available="true">
+                <name>
+                    Кабель TFN CFZUSBCUSB1MGR USB2.0 - Type-C 3A 1m нейлон Fashion Grey
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-364756" available="true">
+                <name>Дата-кабель Hoco Premium X14 iPhone 5/6 2 м Red black</name>
+                <price>990</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-444332" available="true">
+                <name>
+                    Кабель Olmio USB2.0 - Micro USB 1,2m угловой 2.1A + подставка Stand Red
+                </name>
+                <price>790</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-255492" available="true">
+                <name>
+                    Универсальный чехол с флипом для смартфона с экраном 5.5” DF Universal-09
+                </name>
+                <price>399</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="0"/>
+                </outlets>
+            </offer>
+            <offer id="0100-268417" available="true">
+                <name>Гарнитура JBL C100si Black</name>
+                <price>990</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-412807" available="true">
+                <name>Кабель EnergEA NyloGlitz Type-C 1.5m Black</name>
+                <price>1299</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-447706" available="true">
+                <name>
+                    Защитное стекло DF sColor-90 Samsung Galaxy M30s на весь экран рамкой Full Glue Black
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-371584" available="true">
+                <name>
+                    Дата-кабель BoraSCO USB - Type-C 3А 1м В нейлоновой оплетке VSP Black
+                </name>
+                <price>698</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-440764" available="true">
+                <name>Защитное стекло Blueo Silk HD Glass 9H 0,26mm Samsung A10s Black</name>
+                <price>990</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-438769" available="true">
+                <name>Карта памяти MicroSD Qumo Сlass 10 UHS-1 32Gb с адаптером Black</name>
+                <price>850</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-254484" available="true">
+                <name>Батарейки Duracell LR6-2BL Professional</name>
+                <price>139</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-372052" available="true">
+                <name>
+                    Чехол DF силикон супертонкий для Huawei Y6 2018/Y5 Prime 2018/Honor 7A hwCase-54
+                </name>
+                <price>599</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-445403" available="true">
+                <name>
+                    Кабель TFN CMFLIGA1MNLGR USB2.0 - Lightning MFI 2.4A 1m нейлон Fashion Grey
+                </name>
+                <price>1399</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-438862" available="true">
+                <name>СЗУ Deppa адаптер 220V 5V/2.4А 2USB Black</name>
+                <price>998</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-433872" available="true">
+                <name>
+                    Защитное стекло DF (xiColor-66) fullscreen + fullglue Xiaomi Mi A3/CC9E Black
+                </name>
+                <price>198</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-438940" available="true">
+                <name>
+                    Внешний аккумулятор DEFENDER ExtraLife 8000B 8000mAh 2.1A 1USB Black
+                </name>
+                <price>1990</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-439284" available="true">
+                <name>
+                    Внешний аккумулятор Power Bank Xiaomi Mi REDMI 20000mAh Dual USB/USB Type-C White
+                </name>
+                <price>2490</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-426498" available="true">
+                <name>Кабель Red Line Loop USB - Micro USB Red</name>
+                <price>1290</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-445393" available="true">
+                <name>
+                    Кабель TFN CFZLIGUSB1MST USB2.0 - Lightning 2A 1m металл Fashion Black
+                </name>
+                <price>899</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="5"/>
+                </outlets>
+            </offer>
+            <offer id="0100-424993" available="true">
+                <name>
+                    Закаленное стекло для Xiaomi Mi 9T/Mi 9T Pro/Redmi K20/Redmi K20 Pro DF xiColor-61 Black
+                </name>
+                <price>198</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-410296" available="true">
+                <name>
+                    Защитное стекло DF для Samsung Galaxy A10 2019 Full Screen sColor-70 Black
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-002309" available="true">
+                <name>Nano-Micro Sim Card адаптер DEPPA</name>
+                <price>198</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="0"/>
+                </outlets>
+            </offer>
+            <offer id="0100-254490" available="true">
+                <name>Наушники Intro RX-910M вкладыши-гарнитура Black</name>
+                <price>299</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="6"/>
+                </outlets>
+            </offer>
+            <offer id="0100-394950" available="true">
+                <name>Клип-кейс DF sCase-68 Samsung Galaxy J2 Core Crystal</name>
+                <price>460</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-417364" available="true">
+                <name>Клип-кейс DF xiCase-41 Xiaomi Mi Play Crystal</name>
+                <price>98</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-423743" available="true">
+                <name>Клип-кейс DF hwCase-82 для Huawei Honor 20 Силикон Сrystal</name>
+                <price>98</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-438763" available="true">
+                <name>Карта памяти MicroSD SmartBuy Сlass 10 8Gb без адаптера Black</name>
+                <price>399</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="6"/>
+                </outlets>
+            </offer>
+            <offer id="0100-439476" available="true">
+                <name>Защитное стекло DF oColor-08 Oppo A5s/AX7 Full Glue Black</name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-295975" available="true">
+                <name>СЗУ 2 USB 2,1A + Дата-кабель Type-C 1м BoraSCO VSP 20652 Black</name>
+                <price>599</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-417925" available="true">
+                <name>
+                    Защитное стекло DF sColor-63 Samsung Galaxy S10 Plus 3D с рамкой Black
+                </name>
+                <price>498</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-435804" available="true">
+                <name>Защитное стекло Mocoll Xiaomi Note 8 PRO 2.5D Полноразмерное Black</name>
+                <price>999</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-411733" available="true">
+                <name>Чехол с флипом DF для Samsung Galaxy A10 sFlip-40 Black</name>
+                <price>599</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-444221" available="true">
+                <name>Чехол-книжка DF sFlip-57 Samsung Galaxy A51 2020 Black</name>
+                <price>599</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-428048" available="true">
+                <name>Закаленное стекло DF hwColor-96 Huawei P30 Fullscreen Рамка Black</name>
+                <price>198</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-439479" available="true">
+                <name>Защитное стекло DF vColor-13 Vivo Y19 Full Glue Black</name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-410309" available="true">
+                <name>Клип-кейс DF sCase-75 Samsung Galaxy A20/30 (2019) Crystal</name>
+                <price>460</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-148072" available="true">
+                <name>Дата-кабель Deppa USB 8-pin для Apple 2м Black</name>
+                <price>498</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="0"/>
+                </outlets>
+            </offer>
+            <offer id="0100-387522" available="true">
+                <name>Защитное стекло Red Line универсальное 5.4&quot;</name>
+                <price>98</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-443156" available="true">
+                <name>
+                    Внешний аккумулятор Red Line C4 4000 mAh 5V/1A/Micro USB/1USB White
+                </name>
+                <price>650</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-445084" available="true">
+                <name>Кабель BoraSCO 20542 USB2.0 - Micro USB 2A 1m Black</name>
+                <price>299</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-394047" available="true">
+                <name>Чехол DF силикон супертонкий для Samsung Galaxy J4+ 2018 sCase-67</name>
+                <price>48</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-417211" available="true">
+                <name>
+                    Защитное стекло BoraSCO для Apple iPhone 7+/8+ Full Cover Full Glue с рамкой White
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-277958" available="true">
+                <name>
+                    Закаленное стекло DF с цветной рамкой fullscreen для iPhone X iColor-14 Black
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-438972" available="true">
+                <name>Внешний аккумулятор GP B05A 5000mAh 1USB White</name>
+                <price>990</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-437659" available="true">
+                <name>
+                    Клип-кейс DF (xiOriginal-03) Xiaomi Redmi Note 8 Pro Силиконовый с микрофиброй Black
+                </name>
+                <price>490</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-382364" available="true">
+                <name>Дата-кабель BoraSCO Micro USB 3А 1м В нейлоновой оплетке VSP Blue</name>
+                <price>699</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="0"/>
+                </outlets>
+            </offer>
+            <offer id="0100-147865" available="true">
+                <name>Наушники JBL T110 Black</name>
+                <price>899</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-202183" available="true">
+                <name>Карта памяти MicroSD 16GB SmartBuy Class 10 с адаптером</name>
+                <price>698</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="0"/>
+                </outlets>
+            </offer>
+            <offer id="0100-445867" available="true">
+                <name>СЗУ Maverick адаптер 2USB Smart IC 3,4A White</name>
+                <price>1490</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-396722" available="true">
+                <name>Накладка силиконовая DF hwCase-63 для Huawei Honor 8X Crystal</name>
+                <price>98</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="0"/>
+                </outlets>
+            </offer>
+            <offer id="0100-441627" available="true">
+                <name>Флип-кейс DF xiFlip-54 Xiaomi Mi Note 10 Black</name>
+                <price>598</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-437977" available="true">
+                <name>
+                    Клип-кейс DF (xiOriginal-03) Xiaomi Redmi Note 8 Pro + микрофибра Силикон Yellow
+                </name>
+                <price>490</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-002488" available="true">
+                <name>Sennheiser CX 200 Street II black</name>
+                <price>1499</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-438894" available="true">
+                <name>АЗУ Mediagadget MGCPS224UBK адаптер 12V 5V/2А 13.7W 1USB</name>
+                <price>790</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-438238" available="true">
+                <name>Клип-кейс DF (xiCase-50) Xiaomi Redmi 8</name>
+                <price>460</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-447144" available="true">
+                <name>Кабель Walker C735 USB2.0 - Lightning 3.1A 1m Blue</name>
+                <price>1190</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-435659" available="true">
+                <name>Клип-Кейс DF (Case-15) Apple iPhone 11 Crystal</name>
+                <price>460</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-445429" available="true">
+                <name>СЗУ TFN Rapid WCRPD18WQCWH адаптер 220V 3A/QC3.0/1USB White</name>
+                <price>999</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-404964" available="true">
+                <name>
+                    Силиконовый супертонкий чехол для Samsung Galaxy J6+ 2018/J6 Prime DF sCase-66
+                </name>
+                <price>48</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-064535" available="true">
+                <name>Наушники JBL T100BLK Black</name>
+                <price>599</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="5"/>
+                </outlets>
+            </offer>
+            <offer id="0100-255491" available="true">
+                <name>
+                    Универсальный чехол с флипом для смартфона с экраном 5” DF Universal-08
+                </name>
+                <price>399</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-366860" available="true">
+                <name>Дата-кабель USB - 8 pin 2А 1м BoraSCO VSP White</name>
+                <price>299</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="5"/>
+                </outlets>
+            </offer>
+            <offer id="0100-006215" available="true">
+                <name>Smart Buy microSD 64GB class 10 + SD адаптер</name>
+                <price>1399</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="4"/>
+                </outlets>
+            </offer>
+            <offer id="0100-438882" available="true">
+                <name>АЗУ GAL UC-1107 адаптер 12V 5V/1А 5W 1USB Black</name>
+                <price>650</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-421196" available="true">
+                <name>Клип-кейс DF hwCase-77 для Huawei P Smart Z Crystal</name>
+                <price>460</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-419696" available="true">
+                <name>
+                    Клип-кейс DF hwCase-81 Huawei Honor 8S/ Y5 (2019) силиконовый супертонкий Black
+                </name>
+                <price>460</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-441345" available="true">
+                <name>Ремешок LYAMBDA для Apple Watch 22mm Red</name>
+                <price>990</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-443153" available="true">
+                <name>СЗУ Red Line NT-2A адаптер 220V 2.1A/5V/2USB Black</name>
+                <price>450</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="4"/>
+                </outlets>
+            </offer>
+            <offer id="0100-406358" available="true">
+                <name>Силиконовый супертонкий чехол для iPhone XS Max DF iCase-12</name>
+                <price>98</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-377877" available="true">
+                <name>СЗУ Deppa 2USB 2.4А дата-кабель USB Type-C Black</name>
+                <price>1298</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-371431" available="true">
+                <name>
+                    Защитное стекло DF с цветной рамкой fullscreen для Huawei Honor 7A/Y5 2018 hwColor-58 Black
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-402847" available="true">
+                <name>
+                    Защитное стекло BoraSCO Full Cover+Full Glue для iPhone 6/6s рамка White
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-107658" available="true">
+                <name>
+                    Наушники Samsung EG920L, стерео гарнитура, вкладыши канальные гибридные, черные (EO-EG920LBEGRU)
+                </name>
+                <price>1099</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="0"/>
+                </outlets>
+            </offer>
+            <offer id="0100-383596" available="true">
+                <name>
+                    Закаленное стекло DF fullscreen для Meizu M8c mzColor-22 с цветной рамкой Black
+                </name>
+                <price>98</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-448481" available="true">
+                <name>
+                    Клип-кейс DF Samsung M215 Galaxy M21/М30s (2020) Силиконовый Crystal
+                </name>
+                <price>460</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-408847" available="true">
+                <name>Гарнитура проводная TFN-HS-MC505BK Black</name>
+                <price>499</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="4"/>
+                </outlets>
+            </offer>
+            <offer id="0100-414566" available="true">
+                <name>
+                    Защитное стекло Mocoll Storm Samsung Galaxy A20/A30/A50 (2019) 2.5D Black
+                </name>
+                <price>999</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-407312" available="true">
+                <name>Чехол силиконовый DF для iPhone XR </name>
+                <price>460</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-417363" available="true">
+                <name>
+                    Защитное стекло DF hwColor-91 Huawei Y5 (2019)/Honor 8S Full Screen Black
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-318883" available="true">
+                <name>Проводные наушники Hoco M16 Ling saund metal universal Golden</name>
+                <price>790</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-409494" available="true">
+                <name>
+                    Стекло защитное DF для Huawei Y6 2019/Honor 8A Full screen hwColor-85 Black
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="0"/>
+                </outlets>
+            </offer>
+            <offer id="0100-410368" available="true">
+                <name>
+                    Закаленное стекло DF с цветной рамкой fullscreen для Xiaomi Redmi Go xiColor-52 Black
+                </name>
+                <price>98</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-442772" available="true">
+                <name>Кабель TFN CMIC1MPVCWH USB2.0 - Micro USB 2A 1m White</name>
+                <price>299</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-372330" available="true">
+                <name>СЗУ Deppa 2USB 2.4А дата-кабель MFI lightning White</name>
+                <price>1798</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-444151" available="true">
+                <name>Клип-Кейс DF sCase-89 Samsung Galaxy A71 Crystal</name>
+                <price>460</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-438771" available="true">
+                <name>Карта памяти MicroSDHC QUMO Сlass 10 16Gb с адаптером Black</name>
+                <price>599</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-383641" available="true">
+                <name>Чехол BoraSCO Book Case для IPhone X экокожа Black</name>
+                <price>198</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-445380" available="true">
+                <name>
+                    Кабель TFN CFZLIGUSB1MGR USB2.0 - Lightning 3A 1m нейлон Fashion Grey
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-070697" available="true">
+                <name>Наушники JBL T100 WHT White</name>
+                <price>599</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-438369" available="true">
+                <name>Беспроводные наушники Xiaomi Mi True Wireless Earbuds Basic Black</name>
+                <price>1990</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-169219" available="true">
+                <name>Стереонаушники GAL HMP-20bc</name>
+                <price>398</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-438396" available="true">
+                <name>Кабель Type-C - Type-C TFN 1m White</name>
+                <price>599</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="5"/>
+                </outlets>
+            </offer>
+            <offer id="0100-293197" available="true">
+                <name>Гарнитура JBL T110BT Bluetooth Black</name>
+                <price>1999</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="4"/>
+                </outlets>
+            </offer>
+            <offer id="0100-416512" available="true">
+                <name>Чехол Hard Case BoraSCO для Samsung (A105) Galaxy A10 Black</name>
+                <price>598</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-156756" available="true">
+                <name>Защитное стекло Red Line Универсальное 5.5&quot;</name>
+                <price>199</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-434162" available="true">
+                <name>Защитное стекло DF Samsung Galaxy A20/A30/A50/A30S sColor-66 Black</name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-384390" available="true">
+                <name>Накладка DF для Xiaomi Redmi 6A xiCase-33 Силикон Crystal</name>
+                <price>98</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-413240" available="true">
+                <name>Клип-кейс DF xiCase-45 Xiaomi Redmi 7 супертонкий Сrystal</name>
+                <price>98</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-411474" available="true">
+                <name>Гарнитура Bluetooth TFN TWSB Boost Black</name>
+                <price>2490</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-411738" available="true">
+                <name>Клип-кейс DF hwCase-78 Huawei Y6 2019 супертонкий Сrystal</name>
+                <price>460</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-435908" available="true">
+                <name>
+                    Защитное стекло DF (xiColor-54) full screen Xiaomi Mi 9/Mi 9 Lite/CC9 Black
+                </name>
+                <price>198</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-437799" available="true">
+                <name>
+                    Клип-кейс BoraSCO Xiaomi Redmi Note 8 Pro Силиконовый с микрофиброй Black
+                </name>
+                <price>490</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-446700" available="true">
+                <name>СЗУ Red Line NT-1A адаптер 220V 5V/1A/1USB White</name>
+                <price>290</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-445398" available="true">
+                <name>
+                    Кабель TFN CKNUSBCUSB1MBK Knight USB2.0 - Type-C 5A 1m нейлон Fashion Black
+                </name>
+                <price>999</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-371583" available="true">
+                <name>Дата-кабель BoraSCO Micro USB 3А 1м В нейлоновой оплетке VSP Black</name>
+                <price>699</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="0"/>
+                </outlets>
+            </offer>
+            <offer id="0100-438747" available="true">
+                <name>
+                    Карта памяти MicroSDHC OLMIO Class 10 UHS-I 16Gb без адаптера Black
+                </name>
+                <price>890</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-444331" available="true">
+                <name>
+                    Кабель Olmio USB2.0 - Type-C 1,2m угловой 2.1A + подставка Stand Blue
+                </name>
+                <price>990</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-291071" available="true">
+                <name>Наушники Hoco Gesi Metallic M18 Gold</name>
+                <price>790</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-444154" available="true">
+                <name>
+                    Защитное стекло DF sColor-85 fullscreen+fullglue Samsung Galaxy A51 Black
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="0"/>
+                </outlets>
+            </offer>
+            <offer id="0100-364755" available="true">
+                <name>Дата-кабель Hoco Premium X14 iPhone 5/6 2 м Black</name>
+                <price>990</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-438966" available="true">
+                <name>Внешний аккумулятор Red Line J01 4000mAh 1А Micro USB/1USB Silver</name>
+                <price>698</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-446934" available="true">
+                <name>Кабель TTEC USB2.0 - Lightning MFI 3A 1.2m White</name>
+                <price>1390</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-438768" available="true">
+                <name>Карта памяти MicroSD Qumo Сlass 10 32Gb с адаптером Black</name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-445377" available="true">
+                <name>
+                    Кабель TFN CFZLIGUSB1MBK USB2.0 - Lightning 3A 1m нейлон Fashion Black
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-310760" available="true">
+                <name>
+                    Чехол универсальный iBox Universal Slide для телефонов 5-6 дюймов Purple
+                </name>
+                <price>399</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="4"/>
+                </outlets>
+            </offer>
+            <offer id="0100-438939" available="true">
+                <name>Внешний аккумулятор DEFENDER Lavita 6000B 6000mAh 2.1A 1USB Black</name>
+                <price>1990</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-396097" available="true">
+                <name>Кабель Hoco USB 2.0 iPhone 8pin X9 2м Black</name>
+                <price>790</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-440763" available="true">
+                <name>
+                    Защитное стекло Blueo Silk HD Glass 9H 0,26mm Huawei P Smart 2019 Black
+                </name>
+                <price>990</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-427733" available="true">
+                <name>
+                    Клип-кейс DF xiCase-48 для Xiaomi Redmi 7A супертонкий силиконовый Crystal
+                </name>
+                <price>460</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-066159" available="true">
+                <name>
+                    Автомобильный держатель Crab Air mini для смартфонов 3.5&quot;-5.7&quot;, крепление на вент. решетку, Deppa
+                </name>
+                <price>450</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-321855" available="true">
+                <name>
+                    Внешний аккумулятор Xiaomi Mi Power 2 New 2USB Li-Pol 10000 mAh Black
+                </name>
+                <price>1990</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-438948" available="true">
+                <name>
+                    Внешний аккумулятор Xiaomi Mi Power Bank 2 5000mAh Micro USB/1USB Silver
+                </name>
+                <price>1290</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="4"/>
+                </outlets>
+            </offer>
+            <offer id="0100-371430" available="true">
+                <name>
+                    Защитное стекло DF с цветной рамкой fullscreen для Huawei Honor 7A/Y5 2018 hwColor-58 White
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-384897" available="true">
+                <name>
+                    Закаленное стекло DF с цветной рамкой fullscreen для Xiaomi Redmi 6A/Redmi 6 xiColor-34 White
+                </name>
+                <price>198</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="4"/>
+                </outlets>
+            </offer>
+            <offer id="0100-310757" available="true">
+                <name>
+                    Чехол универсальный iBox Universal Slide для телефонов 4.2-5 дюймов Black
+                </name>
+                <price>399</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="4"/>
+                </outlets>
+            </offer>
+            <offer id="0100-445386" available="true">
+                <name>
+                    Кабель TFN CFZMICUSB1MGR USB2.0 - Micro USB 3A 1m нейлон Fashion Grey
+                </name>
+                <price>699</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-439475" available="true">
+                <name>Защитное стекло DF oColor-10 Oppo A5/A9 2020 Full Glue Black</name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-422680" available="true">
+                <name>Беспроводные наушники Xiaomi AirDots Black</name>
+                <price>3399</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="4"/>
+                </outlets>
+            </offer>
+            <offer id="0100-277960" available="true">
+                <name>
+                    Закаленное стекло DF с цветной рамкой fullscreen для iPhone X iColor-14 White
+                </name>
+                <price>198</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-437964" available="true">
+                <name>
+                    Защитное стекло DF (sColor-83) Samsung Galaxy A20s 2019 Full Glue Black
+                </name>
+                <price>198</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-439283" available="true">
+                <name>
+                    Внешний аккумулятор Power Bank Xiaomi Mi REDMI 10000mAh Dual USB/USB Type-C White
+                </name>
+                <price>1790</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-215017" available="true">
+                <name>Чехол силикон супертонкий для iPhone 7 DF iCase-06</name>
+                <price>460</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-226535" available="true">
+                <name>Подменный фонд категории 3</name>
+                <price>589</price>
+                <categoryId>0100-001021</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-155580" available="true">
+                <name>Брелок (149)</name>
+                <price>400</price>
+                <categoryId>0100-001021</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-107630" available="true">
+                <name>Наушники Samsung EG920L, white</name>
+                <price>1099</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-437748" available="true">
+                <name>Клип-кейс DF xiCase-49 Xiaomi Redmi 8A Силиконовый супертонкий</name>
+                <price>460</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="5"/>
+                </outlets>
+            </offer>
+            <offer id="0100-443155" available="true">
+                <name>АЗУ Red Line AC-5 адаптер 12V 5V/2.4A/2USB Black</name>
+                <price>399</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-440415" available="true">
+                <name>
+                    Внешний аккумулятор Deppa NRG Alum 10000mAh QC3.0 Power Delivery 18W Graphite
+                </name>
+                <price>2090</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-445083" available="true">
+                <name>СЗУ BoraSCO 37262 адаптер 220V 5V/2,4A/2USB Black</name>
+                <price>990</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-439478" available="true">
+                <name>Защитное стекло DF xiColor-72 Xiaomi Redmi 8/8A Full Glue Black</name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-411729" available="true">
+                <name>Чехол DF силикон супертонкий для Samsung Galaxy A40 sCase-77</name>
+                <price>98</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-437946" available="true">
+                <name>
+                    Защитное стекло DF Huawei P Smart Z/Y9 prime 2019/Honor 9X/9X prem Full Screen hwColor-101 Black
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-295836" available="true">
+                <name>Защитное стекло BoraSCO 0,26 мм Универсальное 4,5&quot;</name>
+                <price>98</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-419881" available="true">
+                <name>
+                    Защитное стекло DF xiColor-57 Xiaomi Mi 9 SE Full Screen рамка Black
+                </name>
+                <price>198</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-438822" available="true">
+                <name>Кабель Hama USB - Lightning MFI 1,55m Blue</name>
+                <price>1390</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-408849" available="true">
+                <name>Гарнитура проводная TFN-HS-MC510BL Blue</name>
+                <price>649</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-411303" available="true">
+                <name>
+                    Защитное стекло DF Full Glue Huawei Y6 2019/Honor 8A hwColor-93 Black
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-413246" available="true">
+                <name>Защитное стекло DF xiColor-55 Xiaomi Redmi 7 Full screen Black</name>
+                <price>198</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="6"/>
+                </outlets>
+            </offer>
+            <offer id="0100-417807" available="true">
+                <name>Клип-кейс DF xiCase-46 Xiaomi Mi 9 SE Силикон Сrystal</name>
+                <price>98</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-447941" available="true">
+                <name>
+                    Кабель_Qumo_23708_USB-Lighting MFI_2.4AКабель Qumo 23708 USB-Lighting MFI 2.4A нейлон Fashion Silver
+                </name>
+                <price>1990</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-411735" available="true">
+                <name>Чехол с флипом DF для Samsung Galaxy A50 sFlip-42 Black</name>
+                <price>599</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="5"/>
+                </outlets>
+            </offer>
+            <offer id="0100-397887" available="true">
+                <name>Корпус DF для Xiaomi Mi8 Lite xiCase-39 силиконовый Crystal</name>
+                <price>98</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-443158" available="true">
+                <name>
+                    Внешний аккумулятор Red Line RP-07 10000 mAh 5V/1А/Micro USB/1USB Black
+                </name>
+                <price>1690</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="0"/>
+                </outlets>
+            </offer>
+            <offer id="0100-078189" available="true">
+                <name>Проводная гарнитура Samsung EO-HS1303 черная</name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-404963" available="true">
+                <name>Силиконовый супертонкий чехол для Huawei P Smart 2019 DF hwCase-71</name>
+                <price>98</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-409889" available="true">
+                <name>Элемент питания Duracell CR2032-2BL</name>
+                <price>399</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-447059" available="true">
+                <name>АЗУ Walker WCR-23 адаптер 12-24V 2.4A/QC2.0/1USB Silver</name>
+                <price>1490</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-383592" available="true">
+                <name>Чехол с флипом DF для Huawei Y9 2018 hwFlip-38 Black</name>
+                <price>48</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-425087" available="true">
+                <name>Аудиокабель AUX TFN Forza 3,5-3,5 мм 1m Red/Black</name>
+                <price>450</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-435658" available="true">
+                <name>Клип-Кейс DF (Case-14) Apple iPhone 11 Pro Crystal</name>
+                <price>460</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="4"/>
+                </outlets>
+            </offer>
+            <offer id="0100-445413" available="true">
+                <name>СЗУ TFN WC1U1ABK адаптер 220V 5V/1A/1USB Black</name>
+                <price>350</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-438788" available="true">
+                <name>Кабель Canyon USB2.0 - Type-С 1,8m Black</name>
+                <price>690</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-437127" available="true">
+                <name>Защитное стекло DF (xiColor-71) Xiaomi Redmi 8/8A Black</name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="0"/>
+                </outlets>
+            </offer>
+            <offer id="0100-392049" available="true">
+                <name>АКБ внешний Qumo PowerAid 10000mAh 4 вида быстрой зарядки Black</name>
+                <price>1990</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="0"/>
+                </outlets>
+            </offer>
+            <offer id="0100-428029" available="true">
+                <name>
+                    Закаленное стекло DF xiColor-63 Xiaomi Redmi 7A Fullscreen Рамка Black
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-438804" available="true">
+                <name>Кабель Deppa USB - Lightning MFI 1,2m Gold</name>
+                <price>998</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-252744" available="true">
+                <name>Наушники JBL T210 BLK Black</name>
+                <price>1199</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-147936" available="true">
+                <name>Наушники Sennheiser CX300-II Precision Black </name>
+                <price>1699</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-217169" available="true">
+                <name>USB 8Gb Smart Buy Crown black</name>
+                <price>499</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="5"/>
+                </outlets>
+            </offer>
+            <offer id="0100-440762" available="true">
+                <name>
+                    Клип-кейс DF xiOriginal-03 Xiaomi Redmi Note 8 Pro + микрофибра Силикон Blue
+                </name>
+                <price>490</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-438767" available="true">
+                <name>Карта памяти MicroSD Qumo Сlass 10 UHS-1 16Gb с адаптером Black</name>
+                <price>650</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-372659" available="true">
+                <name>
+                    Дата-кабель BoraSCO USB - Type-C 3А 1м В нейлоновой оплетке VSP Blue
+                </name>
+                <price>699</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="0"/>
+                </outlets>
+            </offer>
+            <offer id="0100-182917" available="true">
+                <name>Наушники JBL С100si Black</name>
+                <price>699</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="4"/>
+                </outlets>
+            </offer>
+            <offer id="0100-446957" available="true">
+                <name>Кабель TTEC Alumi USB2.0 - Type-C 3.2A 1.2m Fashion Space Grey</name>
+                <price>1490</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-318882" available="true">
+                <name>Проводные наушники Hoco M16 Ling saund metal universal Black</name>
+                <price>790</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-199436" available="true">
+                <name>Аудиокабель AUX Deppa 3.5мм - 3.5мм L коннектор 1.2м Black</name>
+                <price>448</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-410367" available="true">
+                <name>
+                    Силиконовый супертонкий чехол DF для Samsung Galaxy A50 sCase-76 Crystal
+                </name>
+                <price>460</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-408732" available="true">
+                <name>
+                    Защитное стекло DF для Samsung Galaxy S10 Full Screen 3D sColor-62 Black
+                </name>
+                <price>498</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-414502" available="true">
+                <name>Защитное стекло DF hwColor-92 Huawei P30 Lite Full Glue Black</name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-406357" available="true">
+                <name>Силиконовый супертонкий чехол DF для Honor 10 Lite hwCase-67</name>
+                <price>460</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-438968" available="true">
+                <name>Внешний аккумулятор Red Line T8 8000mAh 2.1А 2USB Blue</name>
+                <price>1790</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-441344" available="true">
+                <name>Ремешок LYAMBDA для Apple Watch 38mm/40mm Black</name>
+                <price>990</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-384896" available="true">
+                <name>
+                    Закаленное стекло DF с цветной рамкой fullscreen для Xiaomi Redmi 6A/Redmi 6 xiColor-34 Black
+                </name>
+                <price>198</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-412808" available="true">
+                <name>Кабель EnergEA NyloGlitz Type-C 1.5m Red</name>
+                <price>1299</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-291926" available="true">
+                <name>Наушники Hoco Gesi Metallic M18 Gray</name>
+                <price>790</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-310756" available="true">
+                <name>
+                    Чехол универсальный iBox Universal Slide для телефонов 4.2-5 дюймов Purple
+                </name>
+                <price>399</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-410310" available="true">
+                <name>Клип-кейс DF xiCase-44 Xiaomi Redmi Go Crystal</name>
+                <price>98</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-441629" available="true">
+                <name>
+                    Защитное стекло DF xiColor-75 3D fullscreen Xiaomi Mi Note 10 Black
+                </name>
+                <price>498</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-448474" available="true">
+                <name>Защитное стекло DF Huawei P40 Lite E full glue Black</name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-284953" available="true">
+                <name>
+                    Закаленное стекло DF с цветной рамкой fullscreen для iPhone 7/8 iColor-15 White
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-070198" available="true">
+                <name>Автомобильный держатель универсальный на гибкой ноге Crab2 Deppa</name>
+                <price>1050</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-445422" available="true">
+                <name>СЗУ TFN Rapid WCRPD12W2UBK адаптер 220V 5V/2.4A/2USB Black</name>
+                <price>599</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="7"/>
+                </outlets>
+            </offer>
+            <offer id="0100-438881" available="true">
+                <name>СЗУ GAL UC-2209 адаптер 220V 5V/2А 10W 2USB White</name>
+                <price>590</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-064782" available="true">
+                <name>Подарок</name>
+                <price>2990</price>
+                <categoryId>0100-001021</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-440540" available="true">
+                <name>Беспроводные наушники Olmio BTE-05 White</name>
+                <price>990</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-034762" available="true">
+                <name>АЗУ micro USB, 2.1A, черный, Deppa </name>
+                <price>198</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="4"/>
+                </outlets>
+            </offer>
+            <offer id="0100-441821" available="true">
+                <name>АЗУ TFN Rapid CCRPD01 адаптер 12V 5V/3.1A/2USB Black</name>
+                <price>790</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-438770" available="true">
+                <name>Карта памяти MicroSDHC QUMO Сlass 10 8Gb с адаптером Black</name>
+                <price>450</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="0"/>
+                </outlets>
+            </offer>
+            <offer id="0100-445373" available="true">
+                <name>Кабель TFN CUSBCUSB1MBK USB2.0 - Type-C 2A 1m Black</name>
+                <price>299</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-426499" available="true">
+                <name>Кабель Red Line Loop USB - Micro USB Blue</name>
+                <price>1290</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-445082" available="true">
+                <name>
+                    СЗУ BoraSCO 37263 адаптер 220V 5V/2,4A/2USB + кабель Micro USB Black
+                </name>
+                <price>1490</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-371703" available="true">
+                <name>Чехол DF силикон супертонкий для Samsung Galaxy A6 2018 sCase-60</name>
+                <price>48</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-413557" available="true">
+                <name>
+                    Защитное стекло BoraSCO Samsung Galaxy A10 (2019) Full Cover+Full Glue с рамкой Black
+                </name>
+                <price>198</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-431145" available="true">
+                <name>
+                    Защитное стекло DF Fullscreen Fullglue Huawei Honor 10 Lite/P Smart2019/Honor 10i hwColor-83 Black
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-393524" available="true">
+                <name>Клип-кейс Inoi 5i/5i Lite Crystal</name>
+                <price>290</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-409496" available="true">
+                <name>Силиконовый супертонкий чехол для Huawei Y7 2019 DF hwCase-76</name>
+                <price>460</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-445394" available="true">
+                <name>
+                    Кабель TFN CKNLIGUSB1MBK Knight USB2.0 - Lightning 3A 1m нейлон Fashion Black
+                </name>
+                <price>999</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-156755" available="true">
+                <name>Защитное стекло Red Line универсальное 4.7&quot;</name>
+                <price>199</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="4"/>
+                </outlets>
+            </offer>
+            <offer id="0100-399347" available="true">
+                <name>
+                    Закаленное стекло с цветной рамкой fullscreen для iPhone XR DF iColor-19 Black
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="4"/>
+                </outlets>
+            </offer>
+            <offer id="0100-438863" available="true">
+                <name>АЗУ Prime Line адаптер 12V 5В/1А 1USB Black</name>
+                <price>650</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-310759" available="true">
+                <name>
+                    Чехол универсальный iBox Universal Slide для телефонов 5-6 дюймов Gold
+                </name>
+                <price>399</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-444150" available="true">
+                <name>Клип-Кейс DF sCase-85 Samsung Galaxy A51 Crystal</name>
+                <price>460</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="0"/>
+                </outlets>
+            </offer>
+            <offer id="0100-383640" available="true">
+                <name>Чехол BoraSCO Book Case для IPhone X экокожа Blue</name>
+                <price>198</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-254491" available="true">
+                <name>Наушники Intro RX-910MW вкладыши-гарнитура White</name>
+                <price>299</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-415437" available="true">
+                <name>
+                    Беспроводные наушники Apple AirPods 2 (2019) Wireless Case (MRXJ2RU/A) White
+                </name>
+                <price>16990</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-446159" available="true">
+                <name>Кабель Maverick D1 USB2.0 - USB Type-C 2A 1m Black</name>
+                <price>290</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-426988" available="true">
+                <name>Беспроводные наушники Red Line TWS BHS-14 White</name>
+                <price>2999</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-435907" available="true">
+                <name>Чехол-флип DF (xiFlip-50) Xiaomi Redmi Note 8 Pro Black</name>
+                <price>599</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-445085" available="true">
+                <name>Кабель BoraSCO 20545 USB2.0 - Type-C 2A 1m Black</name>
+                <price>350</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-419311" available="true">
+                <name>Гарнитура JBL Live 500BT Bluetooth Black</name>
+                <price>6990</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-447058" available="true">
+                <name>АЗУ Walker WCR-23 адаптер 12-24V 2.4A/QC2.0/1USB Black</name>
+                <price>1490</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-212092" available="true">
+                <name>
+                    Автомобильный держатель Crab Mage Steel для смартфонов, магнитный крепление на торпеду, Deppa
+                </name>
+                <price>850</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-262171" available="true">
+                <name>
+                    Дата-кабель для iPhone 8pin/1.2m MFI Deppa Metal аллюминий стальной
+                </name>
+                <price>1598</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-444153" available="true">
+                <name>Чехол-флип DF xiFlip-52 Xiaomi Redmi 8A Black</name>
+                <price>599</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="0"/>
+                </outlets>
+            </offer>
+            <offer id="0100-411743" available="true">
+                <name>
+                    Клип-кейс DF xiCase-42 Xiaomi Redmi Note 7/Note 7 Pro супертонкий Сrystal
+                </name>
+                <price>98</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-413530" available="true">
+                <name>Клип-кейс DF hwCase-75 Huawei P30 Lite супертонкий Сrystal</name>
+                <price>460</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-448111" available="true">
+                <name>
+                    Карта памяти MicroSDXC Transcend 300S UHS-I Class U1 64Gb c адаптером White
+                </name>
+                <price>1990</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-448345" available="true">
+                <name>
+                    Карта памяти MicroSDXC Transcend 300S UHS-I Class U1 64Gb без адаптера White
+                </name>
+                <price>1990</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-445376" available="true">
+                <name>Кабель TFN CLIGUSB1MTPWH USB2.0 - Lightning 2A 1m TPE White</name>
+                <price>499</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="5"/>
+                </outlets>
+            </offer>
+            <offer id="0100-371582" available="true">
+                <name>
+                    Дата-кабель BoraSCO USB - 8 pin 3А 1м В нейлоновой оплетке VSP Black
+                </name>
+                <price>698</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-387061" available="true">
+                <name>Кабель EnergEA NyloGlitz Lightning MFI 1.5m Black</name>
+                <price>1499</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-311466" available="true">
+                <name>
+                    Закаленное стекло DF с цветной рамкой fullscreen для Xiaomi Redmi 5 xiColor-22 Black
+                </name>
+                <price>48</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-412019" available="true">
+                <name>Книжка Samsung Galaxy A20/30 2019 DF sFlip-41 Black</name>
+                <price>599</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="4"/>
+                </outlets>
+            </offer>
+            <offer id="0100-428049" available="true">
+                <name>Клип-кейс DF hwCase-69 Huawei P30 Супертонкий силиконовый Сrystal</name>
+                <price>98</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-291070" available="true">
+                <name>Наушники Hoco Gesi Metallic M18 Black</name>
+                <price>790</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-440417" available="true">
+                <name>
+                    Внешний аккумулятор Deppa NRG Turbo Compact 10000mAh QC3.0 Power Delivery 18W Black
+                </name>
+                <price>1790</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-398360" available="true">
+                <name>Bluetooth-гарнитура Intro BI890W slim White</name>
+                <price>1499</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-443151" available="true">
+                <name>Беспроводное ЗУ Red Line QI-02 5V/1A White</name>
+                <price>499</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-444327" available="true">
+                <name>
+                    Чехол-книжка универсальный Maverick 5,5-6,0&quot; (тип крепления-клей) Gold упаковка пластик
+                </name>
+                <price>690</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-414678" available="true">
+                <name>Клип-кейс TFN Meizu X8 Crystal</name>
+                <price>490</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-439552" available="true">
+                <name>
+                    Защитное стекло DF (fullscreen+fullglue) Xiaomi Redmi Note 8T DF xiColor-74 Black
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-155579" available="true">
+                <name>Брелок (119)</name>
+                <price>400</price>
+                <categoryId>0100-001021</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-368325" available="true">
+                <name>Силиконовый чехол BoraSCO для Samsung Galaxy A6+ 2018 Transparent</name>
+                <price>48</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-439474" available="true">
+                <name>Защитное стекло DF oColor-06 Oppo A1K Full Glue Black</name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-411725" available="true">
+                <name>
+                    Защитное стекло DF fullscreen для Samsung Galaxy A40 sColor-71 Black
+                </name>
+                <price>198</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-357763" available="true">
+                <name>Чехол DF для Huawei P20 Lite силикон супертонкий hwCase-50</name>
+                <price>48</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-437567" available="true">
+                <name>Флип-кейс универсальный DF (Universal-13) 6”-6.3” Black</name>
+                <price>399</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-410366" available="true">
+                <name>
+                    Силиконовый супертонкий чехол DF для Samsung Galaxy A10 sCase-74 Crystal
+                </name>
+                <price>460</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-444333" available="true">
+                <name>
+                    Кабель Olmio USB2.0 - Lightning 1.2m угловой 2.1A + подставка Stand Green
+                </name>
+                <price>990</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-445436" available="true">
+                <name>
+                    АЗУ TFN CC2U24AMICBK адаптер 12V 5V/2.4A/2USB+кабель Micro USB Black
+                </name>
+                <price>590</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-186556" available="true">
+                <name>Силиконовый супертонкий чехол для iPhone 5/5S/SE DF iCase-04</name>
+                <price>460</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-180847" available="true">
+                <name>16GB USB QUARTZ черный SMARTBUY</name>
+                <price>599</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-445346" available="true">
+                <name>
+                    Защитное стекло Red Line Samsung A01 2020 (SM-А015) Full screen Full Glue Black
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-448476" available="true">
+                <name>Защитное стекло DF Samsung Galaxy A41 (2020) full glue Black</name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-295304" available="true">
+                <name>
+                    Сетевое зарядное устройство BoraSCO VSP USB 1A + Дата-кабель micro USB 1м Black
+                </name>
+                <price>399</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="6"/>
+                </outlets>
+            </offer>
+            <offer id="0100-239335" available="true">
+                <name>Универсальное закаленное стекло для экрана DF Uni-05 5”</name>
+                <price>199</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="5"/>
+                </outlets>
+            </offer>
+            <offer id="0100-419697" available="true">
+                <name>
+                    Защитное стекло DF xiColor-59 Xiaomi Mi Play Full Screen с цветной рамкой Black
+                </name>
+                <price>198</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-438326" available="true">
+                <name>Клип-кейс DF sCase-84 Samsung Galaxy A20s Силиконовый супертонкий</name>
+                <price>98</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-445430" available="true">
+                <name>АЗУ TFN CC1U1ABK адаптер 12V 5V/1A/1USB Black</name>
+                <price>290</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-413239" available="true">
+                <name>Клип-кейс DF hwCase-79 Honor 10i супертонкий Сrystal</name>
+                <price>460</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-419302" available="true">
+                <name>АКБ внешний Qumo PowerAid 20000mAh QC Black</name>
+                <price>2990</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-438701" available="true">
+                <name>Защитное стекло Auzer Xiaomi Redmi 8/8A (2019) Full Glue 9D Black</name>
+                <price>990</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-352231" available="true">
+                <name>Bluetooth гарнитура Hoco спортивная Maret ES11 series Blue</name>
+                <price>1490</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-417796" available="true">
+                <name>
+                    Защитное стекло DF sColor-75 Samsung Galaxy A10 2019 Full Glue Black
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-409495" available="true">
+                <name>
+                    Стекло защитное DF для Huawei Y7 2019/Enjoy 9 Full screen hwColor-89 Black
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-446959" available="true">
+                <name>Кабель TTEC Alumi USB2.0 - Type-C 3.2A 1.2m Fashion Rose Gold</name>
+                <price>1490</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-318884" available="true">
+                <name>Проводные наушники Hoco M16 Ling saund metal universal Silver</name>
+                <price>790</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-402848" available="true">
+                <name>
+                    Защитное стекло BoraSCO Full Cover+Full Glue для iPhone 6/6s рамка Black
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-372661" available="true">
+                <name>Дата-кабель BoraSCO USB - 8 pin 3А 1м В нейлоновой оплетке VSP Red</name>
+                <price>699</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-078191" available="true">
+                <name>Проводная гарнитура Samsung EO-HS1303 белая</name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="0"/>
+                </outlets>
+            </offer>
+            <offer id="0100-438976" available="true">
+                <name>Внешний аккумулятор GP B20A 20000mAh 2USB Gray</name>
+                <price>3490</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-254485" available="true">
+                <name>Батарейки Duracell LR03-2BL Professional</name>
+                <price>169</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="5"/>
+                </outlets>
+            </offer>
+            <offer id="0100-423746" available="true">
+                <name>Клип-кейс DF xiCase-47 для Xiaomi Mi 9T Силикон Crystal</name>
+                <price>98</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-438979" available="true">
+                <name>Внешний аккумулятор GP MP05MA 5000mAh 2USB Red</name>
+                <price>990</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="949098" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-328741" available="true">
+                <name>Карта памяти MicroSD Smart Buy К10 128GB с адаптером</name>
+                <price>2490</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-200280" available="true">
+                <name>Закаленное стекло для iPhone 5/5C/5S DF ishield-02</name>
+                <price>499</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-280958" available="true">
+                <name>Силиконовый чехол DF для iPhone X супертонкий iCase-10 Black</name>
+                <price>98</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-411982" available="true">
+                <name>Защитное стекло Red Line универсальное 5,3''</name>
+                <price>199</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-445396" available="true">
+                <name>
+                    Кабель TFN CFZUSBCUSB1MST USB2.0 - Type-C 2A 1m металл Fashion Black
+                </name>
+                <price>899</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="4"/>
+                </outlets>
+            </offer>
+            <offer id="0100-419790" available="true">
+                <name>
+                    Защитное стекло DF sColor-64 Samsung Galaxy S10e Full Screen 3D с рамкой Black
+                </name>
+                <price>498</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-448479" available="true">
+                <name>Клип-кейс DF Huawei P40 Lite E Силиконовый Crystal</name>
+                <price>460</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-414513" available="true">
+                <name>Клип-кейс DF sCase-78 Samsung Galaxy A70 (2019) Сrystal</name>
+                <price>98</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="3"/>
+                </outlets>
+            </offer>
+            <offer id="0100-284958" available="true">
+                <name>
+                    Закаленное стекло DF с цветной рамкой fullscreen для Huawei Honor 8 hwColor-03 Gold
+                </name>
+                <price>48</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-444662" available="true">
+                <name>
+                    Защитное стекло Mocoll Samsung Galaxy A51 2.5D Полноразмерное Black
+                </name>
+                <price>999</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-400659" available="true">
+                <name>
+                    Защитное стекло DF для Samsung Galaxy J2 Core Full Screen sColor-59 Black
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-435657" available="true">
+                <name>Клип-Кейс DF (Case-16) Apple iPhone 11 Pro MAX Crystal</name>
+                <price>460</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="2"/>
+                </outlets>
+            </offer>
+            <offer id="0100-445427" available="true">
+                <name>
+                    СЗУ TFN Rapid WCRPD12W2U04 адаптер 220V 5V/2.4A/2USB+кабель Type-C White
+                </name>
+                <price>799</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-445412" available="true">
+                <name>Кабель TFN CUSBCUSB1MTPWH USB 2.0 - Type-C 2A 1m TPE White</name>
+                <price>499</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+            <offer id="0100-428133" available="true">
+                <name>Кабель EnergEA Alutough Kevlar Lightning MFI 1.5m Black</name>
+                <price>1390</price>
+                <categoryId>0100-084105</categoryId>
+                <outlets>
+                    <outlet id="95715" instock="1"/>
+                </outlets>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
